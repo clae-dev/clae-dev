@@ -27,21 +27,24 @@ Java · Spring 기반으로 구조와 기본기를 중요하게 생각하며 개
 ## 🛠 기술 스택
 
 **Backend**
-- Java
-- Spring Boot / Spring Security
-- JDBC
-https://camo.githubusercontent.com/2fc9345c302e3fd832b2022c24e2ddcb3653290d642feeda561f7fa5a2b16dad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030373339363f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465
+![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/SPRING%20SECURITY-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-59666C?style=for-the-badge)
 
 **Database**
-- Oracle
+![Oracle](https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
 
 **Frontend**
-- HTML5 / CSS3
-- JavaScript
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 **Tools & DevOps**
-- Git / GitHub
-- AWS EC2
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -64,6 +67,7 @@ https://camo.githubusercontent.com/2fc9345c302e3fd832b2022c24e2ddcb3653290d642fe
 
 ## 📬 Contact & Portfolio
 
-- 📧 Email : 12michael23@naver.com
-- 📘 Notion : 
-- 💻 GitHub : https://github.com/clae-dev
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:12michael23@naver.com)
+[![Notion](https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/2e827c307157805aaff3c159fb23c716?source=copy_link)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/clae-dev)
+
