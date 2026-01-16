@@ -8,13 +8,7 @@ Java · Spring 기반으로 구조와 기본기를 중요하게 생각하며 개
 
 ## 🚀 주요 프로젝트
 
-### 🪶 Feather World
-> Spring Boot 기반 커뮤니티 웹 서비스
-
-- Spring Security + JWT를 활용한 인증·인가 구현
-- 댓글 / 대댓글 구조 설계 및 권한 처리
-- Oracle DB 기반 데이터 모델링 및 쿼리 작성
-- AWS EC2 환경에서 서비스 배포 경험
+### 
 
 🔗 [GitHub Repository](https://github.com/clae-dev/feather-world-deploy)
 
