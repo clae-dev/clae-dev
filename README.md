@@ -25,7 +25,7 @@ Java · Spring 기반으로 구조와 기본기를 중요하게 생각하며 개
 ([K-MAC](https://github.com/KMAC-hackerton/frontend.git))
 ([K-MAC](https://github.com/KMAC-hackerton/backend.git)))
 
-🔗 기획 문서 (있다면)
+🔗 기획 문서 
 [KMAC PPT.pdf](https://github.com/user-attachments/files/25028764/KMAC.PPT.pdf)
 
 🚀 세미 프로젝트 | 봉사 커뮤니티 웹 서비스
