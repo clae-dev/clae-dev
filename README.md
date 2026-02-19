@@ -49,6 +49,76 @@ Java · Spring 기반으로 구조와 기본기를 중요하게 생각하며 개
 [세미프로젝트](https://github.com/Trouble-Developer/semi_project.git)
 
 
+## 🚀 SIMVEX | 3D 공학 학습 플랫폼 (해커톤 MVP)
+
+공대생 및 기계·로봇공학 입문자를 위한  
+웹 기반 3D 기계 부품 시각화 학습 서비스
+
+### 📌 프로젝트 개요
+
+- Three.js 기반 3D 뷰어로 드론, 로봇팔, 판스프링, 서스펜션 모델 분해/조립 학습
+- 부품 클릭 시 기능 설명 제공
+- OpenAI GPT-5-mini 기반 AI 학습 어시스턴트
+- 사용자 GLB/FBX 모델 업로드 및 커뮤니티 공유 기능
+- Supabase 기반 인증, 노트 저장, 채팅 기록 동기화
+- PDF 학습 자료 내보내기 기능 구현
+
+---
+
+### 🧠 Architecture Overview
+
+Client (Next.js + React + Three.js)
+        ↓
+Next.js API Routes
+        ↓
+Supabase (Auth / PostgreSQL / Storage)
+        ↓
+OpenAI GPT-5-mini API
+
+> 프론트엔드, API 레이어, DB, 외부 AI API를 분리하여  
+> 확장성과 유지보수를 고려한 구조로 설계했습니다.
+
+---
+
+### 🔍 담당 역할 & 기여도
+
+- Supabase PostgreSQL 테이블 설계  
+  (user_notes, chat_conversations, user_models)
+- RLS(Row Level Security) 정책 설계 및 적용
+- Supabase Auth 기반 인증 시스템 구축
+- 세션 관리 미들웨어 및 OAuth 콜백 처리
+- Next.js API 라우트 설계 및 AI API 연동
+- 컨텍스트 기반 프롬프트 엔지니어링 설계
+- Supabase Storage 업로드 파이프라인 구현
+- DB 마이그레이션 스크립트 작성
+- 노트/채팅 기록 CRUD 및 동기화 로직 구현
+- Vercel 배포 및 환경 변수 관리
+
+---
+
+### 📈 프로젝트 성과
+
+- 10일 MVP 해커톤 완주 및 실제 배포
+- 3D 렌더링 + 인증 + 스토리지 + AI API 통합 설계 경험
+- 사용자 노트/대화 기록 동기화 기능 완성
+- 제한된 기간 내 기능 우선순위 조정 및 범위 관리 경험
+
+---
+
+### 🛠 Tech Stack
+
+Next.js / React / TypeScript  
+Three.js / @react-three/fiber  
+Zustand  
+Supabase (PostgreSQL, Auth, Storage)  
+OpenAI API  
+Tailwind CSS  
+Vercel  
+
+🔗 GitHub  
+https://github.com/Blaybus-TED-Chang/simvex-web
+
+---
 
 
 
