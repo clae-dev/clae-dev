@@ -38,14 +38,14 @@ Java · Spring 기반으로 구조와 기본기를 중요하게 생각하며 개
 - 로그인 세션 기반 인증 처리 및 마이페이지 기능 구현
 👉 “기본기에 집중하여 게시판 중심 웹 서비스의 전체 흐름을 완성한 프로젝트”
 
-🔍 담당 역할 & 기여도 (선택 – 넣으면 더 좋음)
+🔍 담당 역할 & 기여도 
 
 - 게시판 CRUD 및 댓글/대댓글 기능 전담 구현
 - Controller → Service → Mapper → DB 레이어 구조 설계 및 구현
 - 게시글 삭제, 권한 체크, 예외 처리 로직 설계
 - 공통 UI 흐름(목록 / 상세 / 작성 / 수정 / 삭제) 유지
 
-🔗 GitHub Repository (있다면)
+🔗 GitHub Repository 
 [세미프로젝트](https://github.com/Trouble-Developer/semi_project.git)
 
 
