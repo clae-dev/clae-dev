@@ -165,3 +165,6 @@ https://github.com/Blaybus-TED-Chang/simvex-web
 [![Notion](https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/2e827c307157805aaff3c159fb23c716?source=copy_link)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/clae-dev)
 
+<!-- updated -->
+
+
