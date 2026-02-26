@@ -8,7 +8,7 @@ Java · Spring 기반으로 구조와 기본기를 중요하게 생각하며 개
 
 ## 🚀 주요 프로젝트
 
-###🚀 K-MAC 해커톤 프로젝트
+## 🚀 K-MAC 해커톤 프로젝트
 
 🔗 GitHub Repository 
 ([K-MAC](https://github.com/KMAC-hackerton/frontend.git))
