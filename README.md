@@ -14,12 +14,14 @@ Java · Spring 기반으로 구조와 기본기를 중요하게 생각하며 개
 ([K-MAC](https://github.com/KMAC-hackerton/frontend.git))
 ([K-MAC](https://github.com/KMAC-hackerton/backend.git)))
 
- 🚀 세미 프로젝트 | 봉사 커뮤니티 웹 서비스
+ 🚀 세미 프로젝트  
+봉사 커뮤니티 웹 서비스
 🔗 GitHub Repository 
 [세미프로젝트](https://github.com/Trouble-Developer/semi_project.git)
 
 
- 🚀 SIMVEX | 3D 공학 학습 플랫폼 (해커톤 MVP)
+ 🚀 SIMVEX  
+ 3D 공학 학습 플랫폼 (해커톤 MVP)
 🔗 GitHub  
 https://github.com/Blaybus-TED-Chang/simvex-web
 
