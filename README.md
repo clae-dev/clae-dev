@@ -8,6 +8,21 @@ Java · Spring 기반으로 구조와 기본기를 중요하게 생각하며 개
 
 ## 🚀 주요 프로젝트
 
+###🚀 K-MAC 해커톤 프로젝트
+
+🔗 GitHub Repository 
+([K-MAC](https://github.com/KMAC-hackerton/frontend.git))
+([K-MAC](https://github.com/KMAC-hackerton/backend.git)))
+
+## 🚀 세미 프로젝트 | 봉사 커뮤니티 웹 서비스
+🔗 GitHub Repository 
+[세미프로젝트](https://github.com/Trouble-Developer/semi_project.git)
+
+
+## 🚀 SIMVEX | 3D 공학 학습 플랫폼 (해커톤 MVP)
+🔗 GitHub  
+https://github.com/Blaybus-TED-Chang/simvex-web
+
 ---
 
 ###🚀 K-MAC 해커톤 프로젝트
@@ -20,10 +35,6 @@ Java · Spring 기반으로 구조와 기본기를 중요하게 생각하며 개
 - 구현 범위 조절
 - 기술적 트레이드오프를 고려한 의사결정 경험
 - 협업 과정에서 이슈 공유 및 해결 방식 학습
-
-🔗 GitHub Repository 
-([K-MAC](https://github.com/KMAC-hackerton/frontend.git))
-([K-MAC](https://github.com/KMAC-hackerton/backend.git)))
 
 🔗 기획 문서 
 [KMAC PPT.pdf](https://github.com/user-attachments/files/25028764/KMAC.PPT.pdf)
@@ -44,9 +55,6 @@ Java · Spring 기반으로 구조와 기본기를 중요하게 생각하며 개
 - Controller → Service → Mapper → DB 레이어 구조 설계 및 구현
 - 게시글 삭제, 권한 체크, 예외 처리 로직 설계
 - 공통 UI 흐름(목록 / 상세 / 작성 / 수정 / 삭제) 유지
-
-🔗 GitHub Repository 
-[세미프로젝트](https://github.com/Trouble-Developer/semi_project.git)
 
 
 ## 🚀 SIMVEX | 3D 공학 학습 플랫폼 (해커톤 MVP)
