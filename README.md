@@ -135,7 +135,7 @@ https://github.com/Blaybus-TED-Chang/simvex-web
 
   ## 🛠 기술 스택                                                                                                                                                                              
   
-  **Backend**                                                                                                                                                                                   ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)                                                                                             
+  **Backend**                                                                                                                                                                                   ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-     badge&logo=java&logoColor=white)                                                                                             
   ![Spring Boot](https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
   ![Spring Security](https://img.shields.io/badge/SPRING%20SECURITY-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
   ![JDBC](https://img.shields.io/badge/JDBC-59666C?style=for-the-badge)
