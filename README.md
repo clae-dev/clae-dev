@@ -25,7 +25,7 @@ https://github.com/Blaybus-TED-Chang/simvex-web
 
 ---
 
-###🚀 K-MAC 해커톤 프로젝트
+🚀 K-MAC 해커톤 프로젝트
 
 실사용 시나리오 기반 MVP 개발 해커톤
 - 제한된 시간 내 요구사항 분석 → 기능 설계 → 구현 경험
