@@ -1,45 +1,58 @@
 ## 👋 안녕하세요!
 🧩 문제 해결을 즐기는 백엔드 개발자 조창래입니다.
 
-사용자에게 실질적인 가치를 주는 서비스를 만들기 위해  
+사용자에게 실질적인 가치를 주는 서비스를 만들기 위해
 Java · Spring 기반으로 구조와 기본기를 중요하게 생각하며 개발하고 있습니다.
 
 ---
 
-# 🚀 주요 프로젝트
+## 🚀 주요 프로젝트
 
- 🚀 K-MAC 해커톤 프로젝트
- 
-🔗 GitHub Repository 
+🚀 K-MAC 해커톤 프로젝트
+
+🔗 GitHub Repository
 ([K-MAC](https://github.com/KMAC-hackerton/frontend.git))
-([K-MAC](https://github.com/KMAC-hackerton/backend.git)))
+([K-MAC](https://github.com/KMAC-hackerton/backend.git))
 
- 🚀 세미 프로젝트  봉사 커뮤니티 웹 서비스
- 
+🚀 세미 프로젝트 | 봉사 커뮤니티 웹 서비스
+
 🔗 GitHub Repository https://github.com/Trouble-Developer/semi_project.git
 
- 🚀 SIMVEX 3D 공학 학습 플랫폼 (해커톤 MVP)
- 
-🔗 GitHub  
+🚀 SIMVEX | 3D 공학 학습 플랫폼 (해커톤 MVP)
+
+🔗 GitHub
 https://github.com/Blaybus-TED-Chang/simvex-web
+
+🚀 BenePicker | 위치 기반 혜택 큐레이션 서비스
+
+🔗 Live Demo https://bene-picker.vercel.app
+
+🚀 ESTAID | AI 기반 2차 창작 컨텐츠 생성 플랫폼
+
+🚀 PedalRo | AI 자전거 관광 코스 큐레이션 서비스
+
+🚀 Signal | 마케팅 실무자용 키워드 추적 플랫폼
 
 ---
 
-🚀 K-MAC 해커톤 프로젝트
+### 🚀 K-MAC 해커톤 프로젝트
 
 실사용 시나리오 기반 MVP 개발 해커톤
 - 제한된 시간 내 요구사항 분석 → 기능 설계 → 구현 경험
 - Java · Spring 기반으로 백엔드 API 설계 및 데이터 흐름 구현
+
 실제 서비스 관점에서
 - 기능 우선순위 선정
 - 구현 범위 조절
 - 기술적 트레이드오프를 고려한 의사결정 경험
 - 협업 과정에서 이슈 공유 및 해결 방식 학습
 
-🔗 기획 문서 
+🔗 기획 문서
 [KMAC PPT.pdf](https://github.com/user-attachments/files/25028764/KMAC.PPT.pdf)
 
-🚀 세미 프로젝트 | 봉사 커뮤니티 웹 서비스
+---
+
+### 🚀 세미 프로젝트 | 봉사 커뮤니티 웹 서비스
 
 게시판 중심 봉사 커뮤니티 웹 서비스 개발
 - Spring 기반 MVC 구조로 회원 관리, 게시판, 댓글 기능 구현
@@ -47,19 +60,21 @@ https://github.com/Blaybus-TED-Chang/simvex-web
 - 댓글/대댓글 구조 구현과 삭제·권한 처리 등 실제 서비스 예외 상황 고려
 - MyBatis를 활용한 SQL 분리 및 데이터 흐름 명확화
 - 로그인 세션 기반 인증 처리 및 마이페이지 기능 구현
-👉 “기본기에 집중하여 게시판 중심 웹 서비스의 전체 흐름을 완성한 프로젝트”
 
-🔍 담당 역할 & 기여도 
+👉 "기본기에 집중하여 게시판 중심 웹 서비스의 전체 흐름을 완성한 프로젝트"
+
+🔍 담당 역할 & 기여도
 
 - 게시판 CRUD 및 댓글/대댓글 기능 전담 구현
 - Controller → Service → Mapper → DB 레이어 구조 설계 및 구현
 - 게시글 삭제, 권한 체크, 예외 처리 로직 설계
 - 공통 UI 흐름(목록 / 상세 / 작성 / 수정 / 삭제) 유지
 
+---
 
 ## 🚀 SIMVEX | 3D 공학 학습 플랫폼 (해커톤 MVP)
 
-공대생 및 기계·로봇공학 입문자를 위한  
+공대생 및 기계·로봇공학 입문자를 위한
 웹 기반 3D 기계 부품 시각화 학습 서비스
 
 ### 📌 프로젝트 개요
@@ -75,6 +90,7 @@ https://github.com/Blaybus-TED-Chang/simvex-web
 
 ### 🧠 Architecture Overview
 
+```
 Client (Next.js + React + Three.js)
         ↓
 Next.js API Routes
@@ -82,15 +98,16 @@ Next.js API Routes
 Supabase (Auth / PostgreSQL / Storage)
         ↓
 OpenAI GPT-5-mini API
+```
 
-> 프론트엔드, API 레이어, DB, 외부 AI API를 분리하여  
+> 프론트엔드, API 레이어, DB, 외부 AI API를 분리하여
 > 확장성과 유지보수를 고려한 구조로 설계했습니다.
 
 ---
 
 ### 🔍 담당 역할 & 기여도
 
-- Supabase PostgreSQL 테이블 설계  
+- Supabase PostgreSQL 테이블 설계
   (user_notes, chat_conversations, user_models)
 - RLS(Row Level Security) 정책 설계 및 적용
 - Supabase Auth 기반 인증 시스템 구축
@@ -115,54 +132,168 @@ OpenAI GPT-5-mini API
 
 ### 🛠 Tech Stack
 
-Next.js / React / TypeScript  
-Three.js / @react-three/fiber  
-Zustand  
-Supabase (PostgreSQL, Auth, Storage)  
-OpenAI API  
-Tailwind CSS  
-Vercel  
+Next.js / React / TypeScript
+Three.js / @react-three/fiber
+Zustand
+Supabase (PostgreSQL, Auth, Storage)
+OpenAI API
+Tailwind CSS
+Vercel
 
-🔗 GitHub  
+🔗 GitHub
 https://github.com/Blaybus-TED-Chang/simvex-web
 
 ---
 
+## 🚀 BenePicker | 위치 기반 혜택 큐레이션 서비스
 
+> _내 주변의 진짜 혜택, 지도 한 번에_
 
+통신사 · 카드 · 멤버십 혜택을 내 위치 기반으로 모아 보여주는 풀스택 모바일·웹 서비스
+
+### 📌 프로젝트 개요
+
+- 내 위치 기준 인근 혜택을 카드 형태로 제공 (홈 피드)
+- 카카오맵 + 커스텀 핀 + 바텀시트 기반 매장·혜택 상세/도보 경로
+- 매장명·브랜드 자동완성 검색 및 최근 검색어 관리
+- 매장·브랜드 찜 기능, 프로필/개인정보 관리
+- WebSocket(STOMP/SockJS) 기반 실시간 알림 채널
+
+### 🔍 담당 역할 & 기여도
+
+- Spring Boot 3.5.8 기반 REST API 설계 및 도메인 모델링
+- Supabase(PostgreSQL) 스키마 설계 및 위치 기반 쿼리 최적화
+- AWS EC2(Amazon Linux 2023) + systemd 기반 배포 파이프라인 구축
+- Vercel 정적 빌드 ↔ EC2 API 리라이트 연결 구성
+- WebSocket 알림 채널 설계 (STOMP + 네이티브 WS)
+
+### 🛠 Tech Stack
+
+Spring Boot 3.5.8 · Expo SDK 55 · React Native Web · PostgreSQL(Supabase) · AWS EC2 · Vercel
+
+🔗 Live https://bene-picker.vercel.app
 
 ---
 
-  ## 🛠 기술 스택                                                                                                                                                                              
-  
-  **Backend**                                                                                                                                                                                   ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)                                                                                             
-  ![Spring Boot](https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-  ![Spring Security](https://img.shields.io/badge/SPRING%20SECURITY-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-  ![JDBC](https://img.shields.io/badge/JDBC-59666C?style=for-the-badge)
-  ![Supabase](https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+## 🚀 ESTAID | AI 기반 2차 창작 컨텐츠 생성 플랫폼
 
-  **Frontend**
-  ![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+K-pop · 애니 · 게임 · 버튜버 등 2차 창작 컨텐츠를 누구나 쉽게 만들 수 있도록 돕는 AI 플랫폼
 
-  **Database**
-  ![Oracle](https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+### 📌 프로젝트 개요
 
-  **Tools & DevOps**
-  ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+- **플롯 기획 → 이미지 생성 → 영상 제작**을 하나의 플로우로 자동화
+- 짧은 키워드 → AI가 5~10개 씬으로 플롯 자동 생성 (구도/조명/분위기/카메라 움직임 포함)
+- 캐릭터 레퍼런스 기반 씬 간 외형·화풍 일관성 유지
+- 첫/마지막 프레임 연결 → 3~5초 씬별 영상 제작 및 최종 영상 병합
+
+### 🔍 담당 역할 & 기여도
+
+- Spring Boot 3.2 + Java 17 기반 도메인 레이어 설계
+  (`character`, `plot`, `image`, `video`)
+- Claude API 연동 및 공통 설정 구성 (CORS / Security / 예외 처리)
+- 표준 응답 래퍼 및 전역 예외 처리 구조 설계
+- JPA 기반 플롯 → 이미지 → 영상 연관 관계 모델링
+- GitHub Actions + Gemini AI 자동 코드리뷰 파이프라인 구축
+
+### 🛠 Tech Stack
+
+Next.js 14 · TypeScript · Tailwind CSS · Spring Boot 3.2 · Java 17 · JPA · Claude API · MySQL
+
+---
+
+## 🚀 PedalRo (페달로) | AI 자전거 관광 코스 큐레이션
+
+> 2026년 전국 통합데이터 활용 공모전 출품작
+
+전국 공영자전거 실시간 대여 데이터와 한국관광공사 관광 API를 융합하여
+사용자 취향 기반 테마별 자전거 관광 코스를 XAI 방식으로 추천
+
+### 📌 프로젝트 개요
+
+- 공영자전거 실시간 API를 `httpx/asyncio` 비동기 호출 → 잔여 2대 이상 대여소만 유효 노드로 필터링
+- **LangChain LCEL 3단계 프롬프트 체이닝**
+  (테마 필터링 → 코스 생성 → XAI 추천 사유 생성)
+- RAG 아키텍처로 실시간 공공데이터를 프롬프트에 주입해 환각 방지
+- 카카오맵 Polyline/Marker 기반 경로 시각화 + 실시간 잔여 수치 위젯
+- PostGIS 공간 쿼리(`ST_DWithin`, `ST_Distance`)로 위치 기반 고속 조회
+
+### 🔍 담당 역할 & 기여도
+
+- FastAPI 기반 비동기 REST API 및 Pydantic 스키마 설계
+- LangChain 프롬프트 체이닝 구조 설계 (`JsonOutputParser` 기반 구조화 출력)
+- PostgreSQL + PostGIS 스키마 설계 및 공간 인덱스 구성
+- 공공데이터 API 병렬 호출 레이어 구현
+- Docker Compose 기반 로컬/배포 환경 구성
+
+### 🛠 Tech Stack
+
+FastAPI · Python · LangChain · Claude · PostgreSQL + PostGIS · SQLAlchemy · React/Next.js · 카카오맵 SDK · Docker
+
+---
+
+## 🚀 Signal | 마케팅 실무자용 키워드 추적 플랫폼
+
+> 2026 Blaybus 인사이트톤 출품작
+
+마케팅·전략기획 실무자를 위한 **키워드 변화 추적 & AI 분석 대시보드**
+
+### 📌 프로젝트 개요
+
+- 키워드 + 전략적 질문 입력 → AI가 웹 데이터 수집·분석하여 맞춤 대시보드 생성
+- 한줄 요약 / 상세 분석 / 타임라인 & 출처 제공
+- 6h / 12h / 24h 주기 자동 업데이트로 트렌드 변화 지속 감지
+- 분석 결과 보고서 출력 기능
+- Free / Pro / Business 요금제 기반 수익화 모델 설계
+
+### 🔍 담당 역할 & 기여도
+
+- Next.js 16 App Router 기반 프론트엔드 + API Routes 백엔드 설계
+- Supabase(PostgreSQL) 스키마 설계 (키워드 추적 / 분석 기록 / 구독 관리)
+- Claude API 연동 및 전략 질문 프롬프트 설계
+- TanStack Query 기반 서버 상태 관리 및 캐싱 전략
+- Recharts 활용 타임라인/트렌드 시각화 대시보드 구현
+
+### 🛠 Tech Stack
+
+Next.js 16 · React · TailwindCSS · Supabase · Claude(Anthropic) · TanStack Query · Recharts
+
+---
+
+## 🛠 기술 스택
+
+**Backend**
+
+![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/SPRING%20SECURITY-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-59666C?style=for-the-badge)
+![Supabase](https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Database**
+
+![Oracle](https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+**Tools & DevOps**
+
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 📚 교육 & 학습
 
-- KH정보교육원  
-  디지털컨버전스 React & Spring 활용 Java 개발자 과정  
+- KH정보교육원
+  디지털컨버전스 React & Spring 활용 Java 개발자 과정
   → 문제해결 시나리오 기반 평가 및 포트폴리오 중심 학습
 
--  AI 응용소프트웨어공학과 재학  
+- AI 응용소프트웨어공학과 재학
   → C, Python, AI 리터러시 등 소프트웨어 전반 학습
 
 ---
