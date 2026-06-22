@@ -6,7 +6,36 @@ Java · Spring 기반으로 구조와 기본기를 중요하게 생각하며 개
 
 ---
 
+## 🏆 수상 경력
+
+### 🏅 K-해양 AI 챌린지 부산 2025 | 한국마이크로소프트 대표상 (우수상)
+
+> 주최: 산업통상자원부 (2025 지역혁신클러스터육성 비R&D 사업 연계) · 팀: PolariX
+
+- **친환경 북극항로 탐색 XAI(설명가능 AI) 모델**로 출품하여 **한국마이크로소프트 대표상(우수상)** 수상
+- 연료·블랙카본·규제 위험 요소를 **하나의 비용 체계로 통합**해 친환경 북극항로를 탐색
+- 경로 선택의 근거를 설명 가능한 방식으로 제공 → 안전성·환경성·정책 대응력을 종합 고려
+
+🔗 관련 기사 https://news.unn.net/news/articleView.html?idxno=587339
+
+### 🥈 2026 티슈(Tishoo) 해커톤형 팀업 공모전 | 우수상 (2등)
+
+> 주최: Tishoo · 기간: 2026.02 ~ 2026.04 · 팀: BENEPICKER
+
+- **위치 정보 기반 실시간 혜택 정보 플랫폼 「BenePicker」** 로 출품하여 **우수상(2등)** 수상
+- MVP 개발 완료 및 **실서비스 배포**까지 완주
+- 56명 대상 현장 인터뷰를 통한 시장 수요 검증
+  (사용 의사 90% / 가맹점 제휴 의사 80% 확인)
+
+🔗 관련 기사 https://www.sisunnews.co.kr/news/articleView.html?idxno=238213
+
+---
+
 ## 🚀 주요 프로젝트
+
+🚀 Javis | 개인용 AI 비서 (풀스택)
+
+🚀 MindController | 웹 기반 표정·심박 감정 분석 서비스
 
 🚀 K-MAC 해커톤 프로젝트
 
@@ -23,7 +52,7 @@ Java · Spring 기반으로 구조와 기본기를 중요하게 생각하며 개
 🔗 GitHub
 https://github.com/Blaybus-TED-Chang/simvex-web
 
-🚀 BenePicker | 위치 기반 혜택 큐레이션 서비스
+🚀 BenePicker | 위치 기반 혜택 큐레이션 서비스 (🏆 Tishoo 공모전 우수상)
 
 🔗 Live Demo https://bene-picker.vercel.app
 
@@ -32,6 +61,102 @@ https://github.com/Blaybus-TED-Chang/simvex-web
 🚀 PedalRo | AI 자전거 관광 코스 큐레이션 서비스
 
 🚀 Signal | 마케팅 실무자용 키워드 추적 플랫폼
+
+---
+
+## 🚀 Javis (자비스) | 개인용 AI 비서
+
+> _매일 쓰려고 만든 물건이라, 화려한 기능보다 안 끊기고 · 빠르고 · 믿을 수 있는 것을 먼저 챙겼다_
+
+FastAPI · LangGraph 기반의 풀스택 개인 AI 비서 서비스
+
+### 📌 프로젝트 개요
+
+- **대화** — WebSocket 기반 실시간 스트리밍 응답
+- **장기 기억** — pgvector 벡터 임베딩으로 과거 대화 학습 및 컨텍스트 활용
+- **음성** — Whisper 기반 음성 인식(STT) 및 TTS 응답
+- **캘린더/Gmail 연동** — Google API로 일정 조회·생성, 메일 송수신
+- **웹 검색** — Tavily 연동 (무료 폴백 지원)
+- **리마인더 & 능동 알림** — 등록/조회/완료, 마감 리마인더·아침 브리핑 자동 전달
+- **PWA** — 브라우저 설치형 앱 지원
+
+### 🧠 Architecture Overview
+
+```
+PWA Client (JS / HTML / CSS)
+        ↓ (WebSocket 스트리밍)
+FastAPI + LangGraph (Agent Orchestration)
+        ↓
+PostgreSQL + pgvector (장기 기억)  ·  APScheduler (능동 알림)
+        ↓
+OpenAI (gpt-4o / Whisper / TTS)  ·  Google Calendar/Gmail  ·  Tavily Search
+```
+
+### 🔍 담당 역할 & 기여도
+
+- 단일 개발자 풀스택 프로젝트 — 전체 설계·구현 담당
+- LangGraph 기반 에이전트 오케스트레이션 설계
+- pgvector 벡터 검색 기반 장기 기억 파이프라인 구현
+- WebSocket 스트리밍 응답 및 음성(STT/TTS) 처리 흐름 구성
+- Google Calendar/Gmail · Tavily 등 외부 API 연동
+- APScheduler 기반 리마인더 / 능동 알림(아침 브리핑) 구현
+- Docker · Docker Compose 기반 배포 환경 구성
+
+### 🛠 Tech Stack
+
+FastAPI · LangGraph · PostgreSQL + pgvector · OpenAI(gpt-4o / Whisper / TTS) · Google API · Tavily · APScheduler · PWA · Docker
+
+🔗 GitHub
+https://github.com/clae-dev/javis
+
+---
+
+## 🚀 MindController | 웹 기반 표정·심박 감정 분석 서비스
+
+> _마음 들여다보기 — 웹캠 한 번으로 보는 나의 감정과 긴장도_
+
+청소년 행사·부스 체험용으로 제작한 브라우저 기반 표정/심박 분석 서비스
+(운영: 성빈센트청소년회 · 한국사회공헌협회 청년챔프단 Butterfly)
+
+### 📌 프로젝트 개요
+
+**🌿 마음 분석 모드**
+- 얼굴 인식 시 **자동 10초 표정 분석** 진행
+- MediaPipe 블렌드셰이프 기반 **7가지 감정 인식**(행복·슬픔·분노·놀람·평온·불쾌·불안)
+- 웹캠으로 이마·볼의 미세 맥동을 분석하는 **rPPG 심박수 추정(BPM)**
+- 감정 조합 기반 **스트레스 지수(0~100)** 및 3단계 판정
+- 감정 분포 차트 · 맞춤 조언 · "오늘의 한마디"(명언/속담 50여 개) 제공
+- 기기별 누적 통계로 분포 기반 판정 **자동 보정**
+
+**🔍 긴장 감지 모드**
+- 4초간 평소 표정을 학습하는 **베이스라인 학습**
+- 실시간 긴장도 게이지(0~100) · 질문별 긴장도 비교 챌린지
+- Duchenne 미소 기준 **진짜/억지 웃음 판별**
+- 표정 긴장·미세표정·깜빡임·시선/고개 움직임·심박 상승을 통합한 **다중 신호 종합 분석**
+
+### 🔒 설계 포인트
+
+- 영상은 **브라우저 내에서만 처리**되며 서버로 전송되지 않음 (프라이버시 보호)
+- MediaPipe WASM 기반 **온디바이스 추론**으로 별도 서버 추론 불필요
+- `components` / `services` / `hooks` / `utils` 모듈 분리 구조
+
+### 🔍 담당 역할 & 기여도
+
+- 단독 개발 프로젝트 — 기획부터 구현·배포까지 전체 담당
+- MediaPipe FaceLandmarker 기반 표정/블렌드셰이프 분석 로직 구현
+- rPPG(POS 기반) 심박수 추정 및 스트레스 지수 산출 알고리즘 설계
+- 베이스라인 학습 · 다중 신호 종합 기반 긴장 감지 모드 구현
+- 기기별 누적 통계 기반 분포 보정 로직 설계
+- Vercel 자동 배포 및 온디바이스 처리 구조 구성
+
+### 🛠 Tech Stack
+
+React 19 · TypeScript · Vite · MediaPipe FaceLandmarker(WASM) · rPPG(POS 기반) · Lottie · Vercel
+
+🔗 Live https://mindcontroller-theta.vercel.app
+
+🔗 GitHub
+https://github.com/clae-dev/MindController
 
 ---
 
@@ -147,16 +272,18 @@ https://github.com/Blaybus-TED-Chang/simvex-web
 
 ## 🚀 BenePicker | 위치 기반 혜택 큐레이션 서비스
 
-> _내 주변의 진짜 혜택, 지도 한 번에_
+> _내 주변의 진짜 혜택, 지도 한 번에_ &nbsp;|&nbsp; 🏆 2026 Tishoo 해커톤형 팀업 공모전 **우수상(2등)**
 
 통신사 · 카드 · 멤버십 혜택을 내 위치 기반으로 모아 보여주는 풀스택 모바일·웹 서비스
 
 ### 📌 프로젝트 개요
 
 - 내 위치 기준 인근 혜택을 카드 형태로 제공 (홈 피드)
+- 반경 50m 이내 가맹점 혜택 확인 및 GPS 기반 실시간 알림
 - 카카오맵 + 커스텀 핀 + 바텀시트 기반 매장·혜택 상세/도보 경로
 - 매장명·브랜드 자동완성 검색 및 최근 검색어 관리
 - 매장·브랜드 찜 기능, 프로필/개인정보 관리
+- 사용 후 절약 금액 자동 누적
 - WebSocket(STOMP/SockJS) 기반 실시간 알림 채널
 
 ### 🔍 담당 역할 & 기여도
@@ -166,6 +293,12 @@ https://github.com/Blaybus-TED-Chang/simvex-web
 - AWS EC2(Amazon Linux 2023) + systemd 기반 배포 파이프라인 구축
 - Vercel 정적 빌드 ↔ EC2 API 리라이트 연결 구성
 - WebSocket 알림 채널 설계 (STOMP + 네이티브 WS)
+
+### 📈 프로젝트 성과
+
+- 2026 Tishoo 해커톤형 팀업 공모전 **우수상(2등)** 수상
+- MVP 개발 및 실서비스 배포 완주
+- 56명 현장 인터뷰로 시장 수요 검증 (사용 의사 90% / 가맹점 제휴 의사 80%)
 
 ### 🛠 Tech Stack
 
@@ -229,6 +362,9 @@ Next.js 14 · TypeScript · Tailwind CSS · Spring Boot 3.2 · Java 17 · JPA ·
 
 FastAPI · Python · LangChain · Claude · PostgreSQL + PostGIS · SQLAlchemy · React/Next.js · 카카오맵 SDK · Docker
 
+🔗 GitHub
+https://github.com/clae-dev/PedalRo
+
 ---
 
 ## 🚀 Signal | 마케팅 실무자용 키워드 추적 플랫폼
@@ -267,23 +403,37 @@ Next.js 16 · React · TailwindCSS · Supabase · Claude(Anthropic) · TanStack 
 ![Spring Boot](https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/SPRING%20SECURITY-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-59666C?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Supabase](https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 **Frontend**
 
 ![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+**AI / Data**
+
+![Claude](https://img.shields.io/badge/CLAUDE-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OPENAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
 **Database**
 
 ![Oracle](https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Tools & DevOps**
 
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Vercel](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -293,7 +443,7 @@ Next.js 16 · React · TailwindCSS · Supabase · Claude(Anthropic) · TanStack 
   디지털컨버전스 React & Spring 활용 Java 개발자 과정
   → 문제해결 시나리오 기반 평가 및 포트폴리오 중심 학습
 
-- AI 응용소프트웨어공학과 재학
+- 한양사이버대학교 AI 응용소프트웨어공학과 재학
   → C, Python, AI 리터러시 등 소프트웨어 전반 학습
 
 ---
@@ -304,4 +454,4 @@ Next.js 16 · React · TailwindCSS · Supabase · Claude(Anthropic) · TanStack 
 [![Notion](https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/2e827c307157805aaff3c159fb23c716?source=copy_link)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/clae-dev)
 
-<!-- updated -->
+<!-- updated: 2026-06-23 -->
