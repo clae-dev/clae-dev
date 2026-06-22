@@ -443,7 +443,7 @@ Next.js 16 · React · TailwindCSS · Supabase · Claude(Anthropic) · TanStack 
   디지털컨버전스 React & Spring 활용 Java 개발자 과정
   → 문제해결 시나리오 기반 평가 및 포트폴리오 중심 학습
 
-- 한양사이버대학교 AI 응용소프트웨어공학과 재학
+- AI 응용소프트웨어공학과 재학
   → C, Python, AI 리터러시 등 소프트웨어 전반 학습
 
 ---
