@@ -3,6 +3,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
     <img src="assets/hero.svg" alt="조창래 · 백엔드 개발자" width="100%">
   </picture>
+  <img src="assets/partners.svg" alt="파트너 캐릭터" width="62%">
 </div>
 
 ## 👋 안녕하세요!
@@ -86,6 +87,10 @@ AI가 실제 환경에서 판단 근거를 설명하며 동작하는 문제에 �
   <source media="(prefers-color-scheme: dark)" srcset="assets/sec-projects-dark.svg">
   <img src="assets/sec-projects.svg" alt="주요 프로젝트" width="100%">
 </picture>
+
+<div align="center">
+  <img src="assets/evolution.svg" alt="아이디어에서 서비스까지 — 진화 라인" width="58%">
+</div>
 
 | 프로젝트 | 한 줄 소개 | 담당 | 링크 |
 |---|---|---|---|
