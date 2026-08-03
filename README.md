@@ -577,17 +577,6 @@ Next.js 16 · React · TailwindCSS · Supabase · Claude(Anthropic) · TanStack 
 
 ---
 
-## ⛪ 성 빈첸시오 청년회 커뮤니티 | 실운영 단체 웹사이트
-
-성 빈첸시오 아 바오로회 청년회의 단체 소개 · 활동 소식 · 회원 전용 커뮤니티를 제공하는 웹사이트
-
-### 📌 프로젝트 개요
-
-- 공개 페이지(홈 · 소개 · 영성 · 활동 · 찾아오시는 길) + 회원 전용 게시판
-- 게시판 CRUD · 댓글 · 조회수 · 이미지/첨부파일 업로드
-- 관리자 기능 — 회원 승인/권한 관리, 게시판 관리, 사이트 팝업 관리
-- Microsoft Graph Calendar 연동 일정 확인
-
 ### 🔍 담당 역할 & 기여도
 
 - Next.js 15 App Router 기반 풀스택 구현 (JWT 쿠키 인증 · 권한 분리)
@@ -714,7 +703,7 @@ Next.js 15 · React 19 · TypeScript · Tailwind CSS v4 · shadcn/base-ui · Azu
   디지털컨버전스 React & Spring 활용 Java 개발자 과정
   → 문제해결 시나리오 기반 평가 및 포트폴리오 중심 학습
 
-- 한양사이버대학교 AI 응용소프트웨어공학과 재학
+- AI 응용소프트웨어공학과 재학
   → C, Python, AI 리터러시 등 소프트웨어 전반 학습
 
 ---
