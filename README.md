@@ -70,6 +70,13 @@ AI가 실제 환경에서 판단 근거를 설명하며 동작하는 문제에 �
   <img src="assets/sec-focus.svg" alt="관심 분야 &amp; 연관 역량" width="100%">
 </picture>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/focus-dark.svg">
+    <img src="assets/focus.svg" alt="관심 분야 6가지 — 경로 계획·비용 최적화 / 실시간 영상 추론 / 신호 처리·필터링 / 위치·공간 데이터 / 엣지·온디바이스 / 에이전트·RAG" width="100%">
+  </picture>
+</div>
+
 > AI · 실시간 인식 · 자율주행 인접 영역에서, 지금까지의 프로젝트가 닿아 있는 지점입니다.
 
 | 영역 | 관련 경험 | 프로젝트 |
@@ -90,6 +97,10 @@ AI가 실제 환경에서 판단 근거를 설명하며 동작하는 문제에 �
 
 <div align="center">
   <img src="assets/evolution.svg" alt="아이디어에서 서비스까지 — 진화 라인" width="58%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projects-dark.svg">
+    <img src="assets/projects.svg" alt="대표 프로젝트 6선 — KB Motion Flow / 워플(WorkPle) / Javis / MindController / 혼디(HONDI) / BenePicker" width="100%">
+  </picture>
 </div>
 
 | 프로젝트 | 한 줄 소개 | 담당 | 링크 |
@@ -677,67 +688,14 @@ Next.js 15 · React 19 · TypeScript · Tailwind CSS v4 · shadcn/base-ui · Azu
   <img src="assets/sec-stack.svg" alt="기술 스택" width="100%">
 </picture>
 
-**Language**
-
-![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-**Backend**
-
-![Spring Boot](https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/SPRING%20SECURITY-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MYBATIS-000000?style=for-the-badge)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![NestJS](https://img.shields.io/badge/NESTJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WEBSOCKET-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Supabase](https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/TAILWIND%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**AI / ML**
-
-![Claude](https://img.shields.io/badge/CLAUDE-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OPENAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/GEMINI-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
-![LangChain](https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LANGGRAPH-1C3C3C?style=for-the-badge)
-![MediaPipe](https://img.shields.io/badge/MEDIAPIPE-0097A7?style=for-the-badge&logo=google&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Whisper](https://img.shields.io/badge/WHISPER-412991?style=for-the-badge&logo=openai&logoColor=white)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+    <img src="assets/stack.svg" alt="기술 스택 — Java · Python · TypeScript · JavaScript · C · Spring Boot · Spring Security · MyBatis · JPA · FastAPI · NestJS · WebSocket · Supabase · Next.js · React · Tailwind CSS · HTML5 · CSS3 · Claude · OpenAI · Gemini · LangChain · LangGraph · MediaPipe · OpenCV · NumPy · Whisper · Oracle · PostgreSQL · PostGIS · pgvector · MySQL · Azure SQL · Git · GitHub · GitHub Actions · Docker · AWS · Linux · Nginx · Vercel" width="100%">
+  </picture>
+</div>
 
 > RAG(pgvector) · 에이전트 오케스트레이션(LangGraph) · XAI 설계 · 온디바이스(WASM) 추론
-
-**Database**
-
-![Oracle](https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostGIS](https://img.shields.io/badge/POSTGIS-008BB9?style=for-the-badge)
-![pgvector](https://img.shields.io/badge/PGVECTOR-4169E1?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Azure SQL](https://img.shields.io/badge/AZURE%20SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-**Infra & DevOps**
-
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Vercel](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
 > Linux 서버 구축 경험 — RAID 1 구성 · 사용자별 디스크 쿼터(Quota) 설정
 
 ---
