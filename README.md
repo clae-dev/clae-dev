@@ -1,49 +1,53 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD3E0,50:D8C4F5,100:C3EAF7&height=200&section=header&text=%EC%A1%B0%EC%B0%BD%EB%9E%98&fontSize=54&fontColor=6D5B9B&fontAlignY=36&desc=%EB%B0%B1%EC%97%94%EB%93%9C%20%C2%B7%20AI%20%C2%B7%20%EC%8B%A4%EC%8B%9C%EA%B0%84%20%EC%B2%98%EB%A6%AC&descSize=18&descAlignY=56&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,50:1E6FD9,100:FF9A2E&height=190&section=header&text=%EC%A1%B0%EC%B0%BD%EB%9E%98&fontSize=56&fontColor=FFFFFF&fontAlignY=34&desc=%EC%84%A0%ED%83%9D%EB%B0%9B%EC%9D%80%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90&descSize=18&descAlignY=54&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Gaegu&weight=700&size=28&duration=3000&pause=700&color=A78BFA&center=true&vCenter=true&width=720&height=64&lines=%EB%AC%B8%EC%A0%9C%20%ED%95%B4%EA%B2%B0%EC%9D%84%20%EC%A6%90%EA%B8%B0%EB%8A%94%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90;Java%20%C2%B7%20Spring%20%EC%9C%BC%EB%A1%9C%20%EA%B5%AC%EC%A1%B0%EC%99%80%20%EA%B8%B0%EB%B3%B8%EA%B8%B0%EB%A5%BC;AI%20%EA%B0%80%20%EA%B7%BC%EA%B1%B0%EB%A5%BC%20%EC%84%A4%EB%AA%85%ED%95%98%EB%A9%B0%20%EB%8F%99%EC%9E%91%ED%95%98%EB%8F%84%EB%A1%9D" alt="typing"/>
+<img src="assets/partners.svg" width="72%" alt="partner buddies"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Gaegu&weight=700&size=28&duration=3000&pause=700&color=FF9A2E&center=true&vCenter=true&width=740&height=64&lines=%EB%AC%B8%EC%A0%9C%EB%A5%BC%20%EB%A7%8C%EB%82%98%EB%A9%B4%20%EC%A7%84%ED%99%94%ED%95%98%EB%8A%94%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90;Java%20%C2%B7%20Spring%20%EC%9C%BC%EB%A1%9C%20%EA%B8%B0%EB%B3%B8%EA%B8%B0%EB%A5%BC%20%EB%8B%A8%EB%8B%A8%ED%9E%88;AI%20%EA%B0%80%20%EA%B7%BC%EA%B1%B0%EB%A5%BC%20%EC%84%A4%EB%AA%85%ED%95%98%EB%A9%B0%20%EB%8F%99%EC%9E%91%ED%95%98%EB%8F%84%EB%A1%9D" alt="typing"/>
 
 <br/>
 
-<a href="mailto:12michael23@naver.com"><img src="https://img.shields.io/badge/Email-FFB5C5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.notion.so/2e827c307157805aaff3c159fb23c716?source=copy_link"><img src="https://img.shields.io/badge/Notion-D8C4F5?style=for-the-badge&logo=notion&logoColor=white"/></a>
-<a href="https://github.com/clae-dev"><img src="https://img.shields.io/badge/GitHub-C3EAF7?style=for-the-badge&logo=github&logoColor=444444"/></a>
-<img src="https://komarev.com/ghpvc/?username=clae-dev&style=for-the-badge&color=FFE1B5&label=VISITORS"/>
+<img src="https://img.shields.io/badge/🏅_수상-3회-FF9A2E?style=for-the-badge&labelColor=0A1F44"/>
+<img src="https://img.shields.io/badge/🚀_실서비스_배포-5건-1E6FD9?style=for-the-badge&labelColor=0A1F44"/>
+<img src="https://img.shields.io/badge/🧩_1인_풀스택_완주-3건-FFD34D?style=for-the-badge&labelColor=0A1F44"/>
+
+<a href="mailto:12michael23@naver.com"><img src="https://img.shields.io/badge/Email-FF9A2E?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://www.notion.so/2e827c307157805aaff3c159fb23c716?source=copy_link"><img src="https://img.shields.io/badge/Portfolio-1E6FD9?style=flat-square&logo=notion&logoColor=white"/></a>
+<a href="https://github.com/clae-dev"><img src="https://img.shields.io/badge/@clae--dev-0A1F44?style=flat-square&logo=github&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=clae-dev&style=flat-square&color=FFD34D&label=VISITORS"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD3E0,50:D8C4F5,100:C3EAF7&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF9A2E,50:FFD34D,100:1E6FD9&height=4" width="100%"/>
 
-## 🌸 About Me
+## 🧭 테이머 프로필
 
-|  | |
+| | |
 |---|---|
-| 🧩 | **문제 해결을 즐기는 백엔드 개발자**입니다. 사용자에게 실질적인 가치를 주는 서비스를 만들기 위해 Java · Spring 기반으로 **구조와 기본기**를 중요하게 생각합니다. |
-| 🤖 | 최근에는 **경로 탐색 · 비용 최적화**, **실시간 영상/신호 기반 추론**, **위치 · 공간 데이터 처리** — AI가 실제 환경에서 **판단 근거를 설명하며** 동작하는 문제에 집중하고 있습니다. |
-| 🎓 | AI 응용소프트웨어공학과 재학 · KH정보교육원 React & Spring 활용 Java 개발자 과정 수료 |
-| 🏆 | 전국 단위 공모전 · 해커톤 **3회 수상** (2025 ~ 2026) |
+| 🧑‍💻 **이름** | 조창래 `@clae-dev` |
+| 🔶 **타입** | 백엔드 — Java · Spring 기반으로 **구조와 기본기**를 먼저 챙깁니다 |
+| ⚡ **속성** | 경로 탐색 · 비용 최적화 / 실시간 영상 · 신호 추론 / 위치 · 공간 데이터 |
+| 🎯 **한 줄** | AI가 실제 환경에서 **판단 근거를 설명하며** 동작하게 만드는 문제에 집중하고 있습니다 |
+| 🎓 **트레이닝** | AI 응용소프트웨어공학과 재학 · KH정보교육원 React & Spring 활용 Java 개발자 과정 수료 |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD3E0,50:D8C4F5,100:C3EAF7&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF9A2E,50:FFD34D,100:1E6FD9&height=4" width="100%"/>
 
-## 🏆 수상 경력
+## 🏅 획득한 문장 — 수상 경력
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🥇_K--해양_AI_챌린지_2025-MS_대표상(우수상)-FFD3E0?style=for-the-badge&labelColor=6D5B9B"/>
-<img src="https://img.shields.io/badge/🥈_K--Hackathon_for_Global_2026-우수상(3위)-D8C4F5?style=for-the-badge&labelColor=6D5B9B"/>
-<img src="https://img.shields.io/badge/🥉_Tishoo_공모전_2026-우수상(2등)-C3EAF7?style=for-the-badge&labelColor=6D5B9B"/>
+<img src="https://img.shields.io/badge/🥇_K--해양_AI_챌린지_부산_2025-한국마이크로소프트_대표상(우수상)-FF9A2E?style=for-the-badge&labelColor=0A1F44"/>
+<img src="https://img.shields.io/badge/🥈_2026_K--Hackathon_for_Global-우수상(3위)-1E6FD9?style=for-the-badge&labelColor=0A1F44"/>
+<img src="https://img.shields.io/badge/🥉_2026_Tishoo_해커톤형_팀업_공모전-우수상(2등)-FFD34D?style=for-the-badge&labelColor=0A1F44"/>
 
 </div>
 
-<br/>
-
-### 🥇 K-해양 AI 챌린지 부산 2025 — 한국마이크로소프트 대표상 (우수상)
+### 🔥 K-해양 AI 챌린지 부산 2025 — 한국마이크로소프트 대표상 (우수상)
 
 > 🏛 주최: 산업통상자원부 (2025 지역혁신클러스터육성 비R&D 사업 연계) &nbsp;·&nbsp; 👥 팀: PolariX
 
-<table>
-<tr><td>
+<table><tr><td>
 
 - **친환경 북극항로 탐색 XAI(설명가능 AI) 모델**로 출품
 - 연료 · 블랙카본 · 규제 위험 요소를 **하나의 비용 체계로 통합**해 최적 경로 탐색
@@ -52,15 +56,13 @@
 
 📰 [관련 기사](https://news.unn.net/news/articleView.html?idxno=587339)
 
-</td></tr>
-</table>
+</td></tr></table>
 
-### 🥈 2026 K-Hackathon for Global — 우수상 (3위)
+### ⚡ 2026 K-Hackathon for Global — 우수상 (3위)
 
 > 🏛 주최: 한국컴퓨터정보학회 &nbsp;·&nbsp; 🌏 국내 22개 대학 + 키르기스스탄 대학 참가
 
-<table>
-<tr><td>
+<table><tr><td>
 
 - 현장 관리직 · 근로자용 웹/앱 정보시스템 **「워플(WorkPle)」** 로 출품
 - ERP 기반 정보시스템 구축 과제 — 교육 직후 **24시간 내 기획 → 설계 → 구현 전 과정 완수**
@@ -68,15 +70,13 @@
 
 📰 [머니투데이](https://www.mt.co.kr/policy/2026/07/14/2026071417263851653) &nbsp;·&nbsp; [서울신문](https://www.seoul.co.kr/news/society/2026/07/14/20260714500209)
 
-</td></tr>
-</table>
+</td></tr></table>
 
-### 🥉 2026 티슈(Tishoo) 해커톤형 팀업 공모전 — 우수상 (2등)
+### 💫 2026 티슈(Tishoo) 해커톤형 팀업 공모전 — 우수상 (2등)
 
 > 🏛 주최: Tishoo &nbsp;·&nbsp; 🗓 2026.02 ~ 2026.04 &nbsp;·&nbsp; 👥 팀: BENEPICKER
 
-<table>
-<tr><td>
+<table><tr><td>
 
 - **위치 기반 실시간 혜택 플랫폼 「BenePicker」** 로 출품
 - GPS · **지오펜싱(반경 50m)** 기반 실시간 알림 구현
@@ -85,38 +85,44 @@
 
 📰 [관련 기사](https://www.sisunnews.co.kr/news/articleView.html?idxno=238213) &nbsp;·&nbsp; 🔗 [Live Demo](https://bene-picker.vercel.app)
 
-</td></tr>
-</table>
+</td></tr></table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD3E0,50:D8C4F5,100:C3EAF7&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF9A2E,50:FFD34D,100:1E6FD9&height=4" width="100%"/>
 
-## 🎯 관심 분야 & 연관 역량
+## ⚡ 능력치 — 관심 분야 & 연관 역량
 
-> 💡 AI · 실시간 인식 · 자율주행 인접 영역에서, 지금까지의 프로젝트가 닿아 있는 지점입니다.
+> 🧬 AI · 실시간 인식 · 자율주행 인접 영역에서, 지금까지의 프로젝트가 닿아 있는 지점입니다.
+> 게이지는 **투입 비중**을 뜻합니다.
 
-| 🌿 영역 | 관련 경험 | 프로젝트 |
-|---|---|---|
-| **경로 계획 · 비용 최적화** | 연료 · 블랙카본 · 규제 위험을 단일 비용 체계로 통합한 경로 탐색, XAI 기반 선택 근거 제시 | K-해양 AI 챌린지 |
-| **실시간 영상 기반 추론** | MediaPipe 랜드마크 트래킹, 105차원 특징 벡터 포즈 판정, 저조도 · 역광 전처리, 프레임 예산(33ms) 성능 측정 | KB Motion Flow · MindController |
-| **신호 처리 · 필터링** | rPPG(POS 기반) 심박 추정, 다중 프레임 중앙값 템플릿, 히스테리시스 게이팅, 시간 축 유예/유지 판정 | MindController · KB Motion Flow |
-| **위치 · 공간 데이터** | PostGIS 공간 인덱스(`ST_DWithin`), 지오펜싱 반경 알림, 실시간 공공데이터 노드 필터링 | PedalRo · BenePicker |
-| **엣지 · 온디바이스** | WASM 온디바이스 추론으로 서버 전송 없이 브라우저에서 영상 · 생체신호 처리 | MindController |
-| **에이전트 · RAG** | LangGraph 오케스트레이션, pgvector 벡터 검색, LangChain LCEL 체이닝 + RAG 환각 방지 | Javis · PedalRo |
+| 영역 | 투입 | 관련 경험 | 프로젝트 |
+|---|---|---|---|
+| **실시간 영상 추론** | `██████████` | MediaPipe 랜드마크 트래킹, 105차원 특징 벡터 포즈 판정, 저조도 · 역광 전처리, 프레임 예산(33ms) 성능 측정 | KB Motion Flow · MindController |
+| **에이전트 · RAG** | `█████████░` | LangGraph 오케스트레이션, pgvector 벡터 검색, LangChain LCEL 체이닝 + RAG 환각 방지 | Javis · PedalRo |
+| **신호 처리 · 필터링** | `████████░░` | rPPG(POS 기반) 심박 추정, 다중 프레임 중앙값 템플릿, 히스테리시스 게이팅, 시간 축 유예/유지 판정 | MindController · KB Motion Flow |
+| **위치 · 공간 데이터** | `███████░░░` | PostGIS 공간 인덱스(`ST_DWithin`), 지오펜싱 반경 알림, 실시간 공공데이터 노드 필터링 | PedalRo · BenePicker |
+| **경로 계획 · 비용 최적화** | `███████░░░` | 연료 · 블랙카본 · 규제 위험을 단일 비용 체계로 통합한 경로 탐색, XAI 기반 선택 근거 제시 | K-해양 AI 챌린지 |
+| **엣지 · 온디바이스** | `██████░░░░` | WASM 온디바이스 추론으로 서버 전송 없이 브라우저에서 영상 · 생체신호 처리 | MindController |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD3E0,50:D8C4F5,100:C3EAF7&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF9A2E,50:FFD34D,100:1E6FD9&height=4" width="100%"/>
 
-## 🚀 프로젝트
+## 🥚 진화 계보 — 프로젝트
+
+<div align="center">
+
+<img src="assets/evolution.svg" width="80%" alt="evolution line"/>
+
+</div>
 
 > 📂 제목을 누르면 상세 내용이 펼쳐집니다.
 
 | 프로젝트 | 한 줄 소개 | 담당 | 링크 |
 |---|---|---|---|
 | 🖐️ **KB Motion Flow** | 손동작을 금융 화면 action 이벤트로 바꾸는 AI 인식 모듈 | AI 모듈 · 아키텍처 | [AI](https://github.com/KB-AI-Challenge2026/KB-AI-Challenge-2026) · [BE](https://github.com/KB-AI-Challenge2026/KB-AI-Challenge-2026-BE) · [FE](https://github.com/KB-AI-Challenge2026/KB-AI-Challenge-2026-FE) |
-| 🧰 **워플 (WorkPle)** | 현장 관리직 · 근로자용 업무 지시/수행 정보시스템 🏆 | 프론트 · 실시간 채널 | [GitHub](https://github.com/clae-dev/weple) |
+| 🧰 **워플 (WorkPle)** | 현장 관리직 · 근로자용 업무 지시/수행 정보시스템 🏅 | 프론트 · 실시간 채널 | [GitHub](https://github.com/clae-dev/weple) |
 | 🤖 **Javis** | FastAPI · LangGraph 기반 개인 AI 비서 | 풀스택 단독 | [GitHub](https://github.com/clae-dev/javis) |
 | 🧠 **MindController** | 웹캠 표정 · 심박(rPPG) 감정 분석 | 단독 개발 | [Live](https://mindcontroller-theta.vercel.app) · [GitHub](https://github.com/clae-dev/MindController) |
-| 🌴 **혼디 (HONDI)** | 제주 혼행 동행 매칭 커뮤니티 (파이널 프로젝트) | 풀스택 1인 | [Live](https://hondi.site) |
-| 📍 **BenePicker** | 위치 기반 혜택 큐레이션 🏆 | 백엔드 · 배포 | [Live](https://bene-picker.vercel.app) |
+| 🌴 **혼디 (HONDI)** | 제주 혼행 동행 매칭 커뮤니티 | 풀스택 1인 | [Live](https://hondi.site) |
+| 📍 **BenePicker** | 위치 기반 혜택 큐레이션 🏅 | 백엔드 · 배포 | [Live](https://bene-picker.vercel.app) |
 | 🛠️ **SIMVEX** | 3D 기계 부품 시각화 학습 플랫폼 | 백엔드 · 인증/DB | [GitHub](https://github.com/Blaybus-TED-Chang/simvex-web) |
 | 🧪 **성분핏** | 전성분 배치 순서로 가성비를 계산하는 큐레이션 | AI · 백엔드 | [GitHub](https://github.com/HYCU-beauty-project/seongbunfit) |
 | 🗺️ **SeoulMate** | 영상 속 장소 인식 + 혼잡도 반영 동선 생성 | 백엔드(NestJS) | [GitHub](https://github.com/PrincessDiary/SeoulMate) |
@@ -128,7 +134,7 @@
 
 <br/>
 
-### 🤖 AI · 실시간 처리
+### 💠 완전체 — 수상작 · 실서비스
 
 <details>
 <summary><b>🖐️ KB Motion Flow</b> — 손짓 하나로, 금융을 더 쉽게 <sub>(제8회 KB A.I Challenge 2026)</sub></summary>
@@ -168,9 +174,108 @@ AI 모듈 (본 저장소)                 Backend               Frontend
 - 진짜 지렛대였던 **캡처 해상도 고정(640×480)** 만 적용 (전처리 · 추론 비용은 픽셀 수에 정비례)
 - 벡터화(2.7배) · 중복 계산 제거(최대 72%)는 개선폭까지 확인했으나 **정확도 회귀 위험 대비 이득이 작아 보류**
 
-**🛠 Tech Stack**
+**🎒 Tech Stack**
 
 `Python 3.10~3.12` `MediaPipe Tasks Vision` `OpenCV` `NumPy` `unittest`
+
+</details>
+
+<details>
+<summary><b>🧰 워플 (WorkPle)</b> — 현장 업무 관리 정보시스템 🏅 <sub>(K-Hackathon for Global 우수상)</sub></summary>
+
+<br/>
+
+현장 관리직과 근로자가 **업무 지시 · 수행 · 확인**을 같은 화면에서 주고받는 웹/앱 정보시스템
+<sub>교육 직후 24시간 안에 기획 → 설계 → 구현까지</sub>
+
+**📌 개요**
+- **오픈보드** — 매장 단위 업무 보드에서 태스크 생성 · 담당자 배정 · 처리 이력 확인
+- **직원 관리 / 스케줄** — 직원 목록 · 상세, 근무 일정 확인
+- **재고 · 리포트** — 재고 현황 관리 및 기간별 업무 리포트
+- **초대 링크 기반 합류** — 로그인 → 매장 선택 → 오픈보드 초대 플로우
+- 모바일 우선 화면 + PWA 설치 지원
+
+**🔍 담당 역할 & 기여도**
+- React 19 + Vite + TypeScript 기반 프론트엔드 구현 (13개 화면 라우팅)
+- **매장 채널 WebSocket 연결** 설계 — 지수 백오프 재연결(1→2→4→8초, 최대 30초)
+- 연결 실패 시 **TanStack Query 폴링으로 자동 폴백**해 실시간성이 끊겨도 화면이 멈추지 않도록 구성
+- JWT 자동 첨부 · 표준 오류(`ApiError`) 처리를 담당하는 얇은 fetch 래퍼 작성
+- Docker + nginx 정적 서빙 설정 및 Vercel SPA 리라이트 배포 구성
+
+**🎒 Tech Stack**
+
+`React 19` `TypeScript` `Vite` `TanStack Query` `React Router v7` `Framer Motion` `WebSocket` `PWA` `Docker` `Nginx` `Vercel`
+
+🔗 [GitHub](https://github.com/clae-dev/weple)
+
+</details>
+
+<details>
+<summary><b>📍 BenePicker</b> — 내 주변의 진짜 혜택, 지도 한 번에 🏅 <sub>(Tishoo 공모전 우수상)</sub></summary>
+
+<br/>
+
+통신사 · 카드 · 멤버십 혜택을 내 위치 기반으로 모아 보여주는 풀스택 모바일 · 웹 서비스
+
+**📌 개요**
+- 내 위치 기준 인근 혜택을 카드 형태로 제공 (홈 피드)
+- 반경 50m 이내 가맹점 혜택 확인 및 GPS 기반 실시간 알림
+- 카카오맵 + 커스텀 핀 + 바텀시트 기반 매장 · 혜택 상세/도보 경로
+- 매장명 · 브랜드 자동완성 검색 및 최근 검색어 관리
+- 매장 · 브랜드 찜 기능, 프로필/개인정보 관리, 절약 금액 자동 누적
+- WebSocket(STOMP/SockJS) 기반 실시간 알림 채널
+
+**🔍 담당 역할 & 기여도**
+- Spring Boot 3.5.8 기반 REST API 설계 및 도메인 모델링
+- Supabase(PostgreSQL) 스키마 설계 및 위치 기반 쿼리 최적화
+- AWS EC2(Amazon Linux 2023) + systemd 기반 배포 파이프라인 구축
+- Vercel 정적 빌드 ↔ EC2 API 리라이트 연결 구성
+- WebSocket 알림 채널 설계 (STOMP + 네이티브 WS)
+
+**📈 성과**
+- 2026 Tishoo 해커톤형 팀업 공모전 **우수상(2등)**
+- MVP 개발 및 실서비스 배포 완주
+- 56명 현장 인터뷰로 시장 수요 검증 (사용 의사 90% / 가맹점 제휴 의사 80%)
+
+**🎒 Tech Stack**
+
+`Spring Boot 3.5.8` `Expo SDK 55` `React Native Web` `PostgreSQL(Supabase)` `AWS EC2` `Vercel`
+
+🔗 [Live](https://bene-picker.vercel.app)
+
+</details>
+
+<details>
+<summary><b>🌴 혼디 (HONDI)</b> — 혼자서도 즐거운 제주 여행 <sub>(파이널 프로젝트 · 풀스택 1인)</sub></summary>
+
+<br/>
+
+혼자 여행하는 사람들을 위해 **동행 매칭 · 숙소 정보 · 여행 후기**를 한곳에 모은 제주 특화 커뮤니티
+<sub>2026.01 ~ 2026.02</sub>
+
+**📌 개요**
+- **동행 구하기 게시판** — 일정 · 지역 · 나이대를 공개하고 동행 모집
+- **숙소 정보 & 리뷰** — 제주 숙소 검색, 실제 투숙 후기 · 평점
+- **여행 후기 / 자유 게시판** — 혼행 경험 공유
+- **실시간 1:1 채팅** — 동행 신청 후 WebSocket(STOMP/SockJS) 기반 대화
+- **실시간 알림** — 동행 신청 · 댓글 · 채팅 등 주요 활동 SSE 알림
+- **카카오 지도 연동** — 명소 · 맛집 · 카페 탐색, 카카오 로그인 · 공유
+- **관리자 페이지** — 회원 · 게시글 · 신고 · 문의 · 공지 통합 관리
+
+**🔍 담당 역할 & 기여도**
+- 기획 · 설계 · 프론트엔드 · 백엔드 · 배포 전 과정 **1인 담당**
+- Spring Boot 3 + MyBatis + Oracle 기반 도메인/ERD 설계 및 API 구현
+- Spring Security + JWT 인증, 카카오 OAuth 2.0 소셜 로그인 연동
+- WebSocket 채팅 · SSE 알림 등 실시간 통신 채널 구성
+- AWS EC2 + Nginx 리버스 프록시 배포 및 도메인 운영
+- Canvas API WebP 변환으로 업로드 이미지 압축 처리
+
+**🎒 Tech Stack**
+
+`Spring Boot 3` `MyBatis` `Oracle DB` `Spring Security/JWT` `WebSocket(STOMP)` `SSE`
+`React 18` `Vite` `TypeScript` `TanStack Query` `Tailwind CSS` `AWS EC2` `Nginx` `Kakao Maps/OAuth`
+
+🔗 [Live](https://hondi.site)
 
 </details>
 
@@ -211,7 +316,7 @@ OpenAI (gpt-4o / Whisper / TTS)  ·  Google Calendar/Gmail  ·  Tavily Search
 - APScheduler 기반 리마인더 / 능동 알림(아침 브리핑) 구현
 - Docker · Docker Compose 기반 배포 환경 구성
 
-**🛠 Tech Stack**
+**🎒 Tech Stack**
 
 `FastAPI` `LangGraph` `PostgreSQL + pgvector` `OpenAI(gpt-4o/Whisper/TTS)` `Google API` `Tavily` `APScheduler` `PWA` `Docker`
 
@@ -253,7 +358,7 @@ OpenAI (gpt-4o / Whisper / TTS)  ·  Google Calendar/Gmail  ·  Tavily Search
 - 베이스라인 학습 · 다중 신호 종합 기반 긴장 감지 모드 구현
 - 기기별 누적 통계 기반 분포 보정 로직 설계
 
-**🛠 Tech Stack**
+**🎒 Tech Stack**
 
 `React 19` `TypeScript` `Vite` `MediaPipe FaceLandmarker(WASM)` `rPPG(POS)` `Lottie` `Vercel`
 
@@ -261,35 +366,9 @@ OpenAI (gpt-4o / Whisper / TTS)  ·  Google Calendar/Gmail  ·  Tavily Search
 
 </details>
 
-<details>
-<summary><b>🚲 PedalRo (페달로)</b> — AI 자전거 관광 코스 큐레이션 <sub>(전국 통합데이터 활용 공모전)</sub></summary>
-
 <br/>
 
-전국 공영자전거 실시간 대여 데이터와 한국관광공사 관광 API를 융합해
-사용자 취향 기반 테마별 코스를 **XAI 방식**으로 추천
-
-**📌 개요**
-- 공영자전거 실시간 API를 `httpx/asyncio` 비동기 호출 → 잔여 2대 이상 대여소만 유효 노드로 필터링
-- **LangChain LCEL 3단계 프롬프트 체이닝** (테마 필터링 → 코스 생성 → XAI 추천 사유 생성)
-- RAG 아키텍처로 실시간 공공데이터를 프롬프트에 주입해 환각 방지
-- 카카오맵 Polyline/Marker 경로 시각화 + 실시간 잔여 수치 위젯
-- PostGIS 공간 쿼리(`ST_DWithin`, `ST_Distance`)로 위치 기반 고속 조회
-
-**🔍 담당 역할 & 기여도**
-- FastAPI 기반 비동기 REST API 및 Pydantic 스키마 설계
-- LangChain 프롬프트 체이닝 구조 설계 (`JsonOutputParser` 기반 구조화 출력)
-- PostgreSQL + PostGIS 스키마 설계 및 공간 인덱스 구성
-- 공공데이터 API 병렬 호출 레이어 구현
-- Docker Compose 기반 로컬/배포 환경 구성
-
-**🛠 Tech Stack**
-
-`FastAPI` `Python` `LangChain` `Claude` `PostgreSQL + PostGIS` `SQLAlchemy` `Next.js` `카카오맵 SDK` `Docker`
-
-🔗 [GitHub](https://github.com/clae-dev/PedalRo)
-
-</details>
+### 🔷 성숙기 — 완성 프로젝트
 
 <details>
 <summary><b>🧪 성분핏 (IngredientFit)</b> — 광고 말고, 성분으로 고르세요</summary>
@@ -322,7 +401,7 @@ OpenAI (gpt-4o / Whisper / TTS)  ·  Google Calendar/Gmail  ·  Tavily Search
 - 보안 — Supabase RLS 스키마, IP당 분당 20회 레이트리밋, 입력 검증, 8초 타임아웃 후 키워드 폴백
 - 크롤링 배제 원칙 하의 데이터 확보 전략(공공데이터 → 브랜드 제휴 → 커머스 공식 API) 수립
 
-**🛠 Tech Stack**
+**🎒 Tech Stack**
 
 `Next.js 16` `React 19` `Tailwind CSS 4` `Google Gemini` `Supabase(PostgreSQL, RLS)`
 
@@ -331,131 +410,32 @@ OpenAI (gpt-4o / Whisper / TTS)  ·  Google Calendar/Gmail  ·  Tavily Search
 </details>
 
 <details>
-<summary><b>🎬 ESTAID</b> — AI 기반 2차 창작 컨텐츠 생성 플랫폼</summary>
+<summary><b>🚲 PedalRo (페달로)</b> — AI 자전거 관광 코스 큐레이션 <sub>(전국 통합데이터 활용 공모전)</sub></summary>
 
 <br/>
 
-K-pop · 애니 · 게임 · 버튜버 등 2차 창작 컨텐츠를 누구나 쉽게 만들 수 있도록 돕는 AI 플랫폼
+전국 공영자전거 실시간 대여 데이터와 한국관광공사 관광 API를 융합해
+사용자 취향 기반 테마별 코스를 **XAI 방식**으로 추천
 
 **📌 개요**
-- **플롯 기획 → 이미지 생성 → 영상 제작**을 하나의 플로우로 자동화
-- 짧은 키워드 → AI가 5~10개 씬으로 플롯 자동 생성 (구도/조명/분위기/카메라 움직임 포함)
-- 캐릭터 레퍼런스 기반 씬 간 외형 · 화풍 일관성 유지
-- 첫/마지막 프레임 연결 → 3~5초 씬별 영상 제작 및 최종 영상 병합
+- 공영자전거 실시간 API를 `httpx/asyncio` 비동기 호출 → 잔여 2대 이상 대여소만 유효 노드로 필터링
+- **LangChain LCEL 3단계 프롬프트 체이닝** (테마 필터링 → 코스 생성 → XAI 추천 사유 생성)
+- RAG 아키텍처로 실시간 공공데이터를 프롬프트에 주입해 환각 방지
+- 카카오맵 Polyline/Marker 경로 시각화 + 실시간 잔여 수치 위젯
+- PostGIS 공간 쿼리(`ST_DWithin`, `ST_Distance`)로 위치 기반 고속 조회
 
 **🔍 담당 역할 & 기여도**
-- Spring Boot 3.2 + Java 17 기반 도메인 레이어 설계 (`character`, `plot`, `image`, `video`)
-- Claude API 연동 및 공통 설정 구성 (CORS / Security / 예외 처리)
-- 표준 응답 래퍼 및 전역 예외 처리 구조 설계
-- JPA 기반 플롯 → 이미지 → 영상 연관 관계 모델링
-- GitHub Actions + Gemini AI 자동 코드리뷰 파이프라인 구축
+- FastAPI 기반 비동기 REST API 및 Pydantic 스키마 설계
+- LangChain 프롬프트 체이닝 구조 설계 (`JsonOutputParser` 기반 구조화 출력)
+- PostgreSQL + PostGIS 스키마 설계 및 공간 인덱스 구성
+- 공공데이터 API 병렬 호출 레이어 구현
+- Docker Compose 기반 로컬/배포 환경 구성
 
-**🛠 Tech Stack**
+**🎒 Tech Stack**
 
-`Next.js 14` `TypeScript` `Tailwind CSS` `Spring Boot 3.2` `Java 17` `JPA` `Claude API` `MySQL`
+`FastAPI` `Python` `LangChain` `Claude` `PostgreSQL + PostGIS` `SQLAlchemy` `Next.js` `카카오맵 SDK` `Docker`
 
-</details>
-
-<br/>
-
-### 🏢 서비스 · 플랫폼
-
-<details>
-<summary><b>🧰 워플 (WorkPle)</b> — 현장 업무 관리 정보시스템 🏆 <sub>(K-Hackathon for Global 우수상)</sub></summary>
-
-<br/>
-
-현장 관리직과 근로자가 **업무 지시 · 수행 · 확인**을 같은 화면에서 주고받는 웹/앱 정보시스템
-<sub>교육 직후 24시간 안에 기획 → 설계 → 구현까지</sub>
-
-**📌 개요**
-- **오픈보드** — 매장 단위 업무 보드에서 태스크 생성 · 담당자 배정 · 처리 이력 확인
-- **직원 관리 / 스케줄** — 직원 목록 · 상세, 근무 일정 확인
-- **재고 · 리포트** — 재고 현황 관리 및 기간별 업무 리포트
-- **초대 링크 기반 합류** — 로그인 → 매장 선택 → 오픈보드 초대 플로우
-- 모바일 우선 화면 + PWA 설치 지원
-
-**🔍 담당 역할 & 기여도**
-- React 19 + Vite + TypeScript 기반 프론트엔드 구현 (13개 화면 라우팅)
-- **매장 채널 WebSocket 연결** 설계 — 지수 백오프 재연결(1→2→4→8초, 최대 30초)
-- 연결 실패 시 **TanStack Query 폴링으로 자동 폴백**해 실시간성이 끊겨도 화면이 멈추지 않도록 구성
-- JWT 자동 첨부 · 표준 오류(`ApiError`) 처리를 담당하는 얇은 fetch 래퍼 작성
-- Docker + nginx 정적 서빙 설정 및 Vercel SPA 리라이트 배포 구성
-
-**🛠 Tech Stack**
-
-`React 19` `TypeScript` `Vite` `TanStack Query` `React Router v7` `Framer Motion` `WebSocket` `PWA` `Docker` `Nginx` `Vercel`
-
-🔗 [GitHub](https://github.com/clae-dev/weple)
-
-</details>
-
-<details>
-<summary><b>🌴 혼디 (HONDI)</b> — 혼자서도 즐거운 제주 여행 <sub>(파이널 프로젝트 · 풀스택 1인)</sub></summary>
-
-<br/>
-
-혼자 여행하는 사람들을 위해 **동행 매칭 · 숙소 정보 · 여행 후기**를 한곳에 모은 제주 특화 커뮤니티
-<sub>2026.01 ~ 2026.02</sub>
-
-**📌 개요**
-- **동행 구하기 게시판** — 일정 · 지역 · 나이대를 공개하고 동행 모집
-- **숙소 정보 & 리뷰** — 제주 숙소 검색, 실제 투숙 후기 · 평점
-- **여행 후기 / 자유 게시판** — 혼행 경험 공유
-- **실시간 1:1 채팅** — 동행 신청 후 WebSocket(STOMP/SockJS) 기반 대화
-- **실시간 알림** — 동행 신청 · 댓글 · 채팅 등 주요 활동 SSE 알림
-- **카카오 지도 연동** — 명소 · 맛집 · 카페 탐색, 카카오 로그인 · 공유
-- **관리자 페이지** — 회원 · 게시글 · 신고 · 문의 · 공지 통합 관리
-
-**🔍 담당 역할 & 기여도**
-- 기획 · 설계 · 프론트엔드 · 백엔드 · 배포 전 과정 **1인 담당**
-- Spring Boot 3 + MyBatis + Oracle 기반 도메인/ERD 설계 및 API 구현
-- Spring Security + JWT 인증, 카카오 OAuth 2.0 소셜 로그인 연동
-- WebSocket 채팅 · SSE 알림 등 실시간 통신 채널 구성
-- AWS EC2 + Nginx 리버스 프록시 배포 및 도메인 운영
-- Canvas API WebP 변환으로 업로드 이미지 압축 처리
-
-**🛠 Tech Stack**
-
-`Spring Boot 3` `MyBatis` `Oracle DB` `Spring Security/JWT` `WebSocket(STOMP)` `SSE`
-`React 18` `Vite` `TypeScript` `TanStack Query` `Tailwind CSS` `AWS EC2` `Nginx` `Kakao Maps/OAuth`
-
-🔗 [Live](https://hondi.site)
-
-</details>
-
-<details>
-<summary><b>📍 BenePicker</b> — 내 주변의 진짜 혜택, 지도 한 번에 🏆 <sub>(Tishoo 공모전 우수상)</sub></summary>
-
-<br/>
-
-통신사 · 카드 · 멤버십 혜택을 내 위치 기반으로 모아 보여주는 풀스택 모바일 · 웹 서비스
-
-**📌 개요**
-- 내 위치 기준 인근 혜택을 카드 형태로 제공 (홈 피드)
-- 반경 50m 이내 가맹점 혜택 확인 및 GPS 기반 실시간 알림
-- 카카오맵 + 커스텀 핀 + 바텀시트 기반 매장 · 혜택 상세/도보 경로
-- 매장명 · 브랜드 자동완성 검색 및 최근 검색어 관리
-- 매장 · 브랜드 찜 기능, 프로필/개인정보 관리, 절약 금액 자동 누적
-- WebSocket(STOMP/SockJS) 기반 실시간 알림 채널
-
-**🔍 담당 역할 & 기여도**
-- Spring Boot 3.5.8 기반 REST API 설계 및 도메인 모델링
-- Supabase(PostgreSQL) 스키마 설계 및 위치 기반 쿼리 최적화
-- AWS EC2(Amazon Linux 2023) + systemd 기반 배포 파이프라인 구축
-- Vercel 정적 빌드 ↔ EC2 API 리라이트 연결 구성
-- WebSocket 알림 채널 설계 (STOMP + 네이티브 WS)
-
-**📈 성과**
-- 2026 Tishoo 해커톤형 팀업 공모전 **우수상(2등)**
-- MVP 개발 및 실서비스 배포 완주
-- 56명 현장 인터뷰로 시장 수요 검증 (사용 의사 90% / 가맹점 제휴 의사 80%)
-
-**🛠 Tech Stack**
-
-`Spring Boot 3.5.8` `Expo SDK 55` `React Native Web` `PostgreSQL(Supabase)` `AWS EC2` `Vercel`
-
-🔗 [Live](https://bene-picker.vercel.app)
+🔗 [GitHub](https://github.com/clae-dev/PedalRo)
 
 </details>
 
@@ -497,7 +477,7 @@ OpenAI GPT-5-mini API
 - 10일 MVP 해커톤 완주 및 실제 배포
 - 3D 렌더링 + 인증 + 스토리지 + AI API 통합 설계 경험
 
-**🛠 Tech Stack**
+**🎒 Tech Stack**
 
 `Next.js` `React` `TypeScript` `Three.js` `@react-three/fiber` `Zustand` `Supabase` `OpenAI API` `Tailwind CSS` `Vercel`
 
@@ -525,11 +505,37 @@ OpenAI GPT-5-mini API
 - Claude API 기반 장소 NER 모듈 및 장소 요약 캐시 설계
 - Supabase 스키마 구성 및 Swagger 기반 API 문서화
 
-**🛠 Tech Stack**
+**🎒 Tech Stack**
 
 `NestJS` `TypeScript` `Next.js 16` `Tailwind CSS` `Supabase` `Claude API` `카카오맵 SDK` `ffmpeg` `Google TTS`
 
 🔗 [GitHub](https://github.com/PrincessDiary/SeoulMate)
+
+</details>
+
+<details>
+<summary><b>🎬 ESTAID</b> — AI 기반 2차 창작 컨텐츠 생성 플랫폼</summary>
+
+<br/>
+
+K-pop · 애니 · 게임 · 버튜버 등 2차 창작 컨텐츠를 누구나 쉽게 만들 수 있도록 돕는 AI 플랫폼
+
+**📌 개요**
+- **플롯 기획 → 이미지 생성 → 영상 제작**을 하나의 플로우로 자동화
+- 짧은 키워드 → AI가 5~10개 씬으로 플롯 자동 생성 (구도/조명/분위기/카메라 움직임 포함)
+- 캐릭터 레퍼런스 기반 씬 간 외형 · 화풍 일관성 유지
+- 첫/마지막 프레임 연결 → 3~5초 씬별 영상 제작 및 최종 영상 병합
+
+**🔍 담당 역할 & 기여도**
+- Spring Boot 3.2 + Java 17 기반 도메인 레이어 설계 (`character`, `plot`, `image`, `video`)
+- Claude API 연동 및 공통 설정 구성 (CORS / Security / 예외 처리)
+- 표준 응답 래퍼 및 전역 예외 처리 구조 설계
+- JPA 기반 플롯 → 이미지 → 영상 연관 관계 모델링
+- GitHub Actions + Gemini AI 자동 코드리뷰 파이프라인 구축
+
+**🎒 Tech Stack**
+
+`Next.js 14` `TypeScript` `Tailwind CSS` `Spring Boot 3.2` `Java 17` `JPA` `Claude API` `MySQL`
 
 </details>
 
@@ -552,7 +558,7 @@ OpenAI GPT-5-mini API
 - `next/font/local` 자체 호스팅으로 외부 CDN 요청 제거, `framer-motion` LazyMotion으로 번들 경량화
 - `main` 푸시 = Vercel 프로덕션 자동 배포
 
-**🛠 Tech Stack**
+**🎒 Tech Stack**
 
 `Next.js 16` `React 19` `TypeScript 5` `Tailwind CSS v4` `Framer Motion` `Turbopack` `Vercel`
 
@@ -580,7 +586,7 @@ OpenAI GPT-5-mini API
 - TanStack Query 기반 서버 상태 관리 및 캐싱 전략
 - Recharts 활용 타임라인/트렌드 시각화 대시보드 구현
 
-**🛠 Tech Stack**
+**🎒 Tech Stack**
 
 `Next.js 16` `React` `TailwindCSS` `Supabase` `Claude(Anthropic)` `TanStack Query` `Recharts`
 
@@ -605,7 +611,7 @@ OpenAI GPT-5-mini API
 - **기존 XE 게시판의 게시글 · 이미지 · 첨부파일 마이그레이션 스크립트** 작성 (레거시 데이터 이관)
 - Microsoft Graph Calendar / Mail 연동
 
-**🛠 Tech Stack**
+**🎒 Tech Stack**
 
 `Next.js 15` `React 19` `TypeScript` `Tailwind CSS v4` `shadcn/base-ui` `Azure SQL` `Azure Blob Storage` `Microsoft Graph`
 
@@ -613,7 +619,7 @@ OpenAI GPT-5-mini API
 
 <br/>
 
-### 🌱 그 외
+### 🥚 성장기 — 그 외
 
 <details>
 <summary><b>🏦 카카오뱅크 시니어 AI 금융 도우미</b> — 음성 온보딩 + AI 금융 브리핑</summary>
@@ -625,7 +631,7 @@ OpenAI GPT-5-mini API
 - 거래 내역 CSV → 5단계 카테고리 분류 → Gemini 자연어 요약 → TTS 음성 재생
 - 페르소나(손자 / 은행원)에 따라 말투 분기
 
-**🛠 Tech Stack** `Python` `Google Gemini` `Edge TTS` `Naver Clova Speech`
+**🎒 Tech Stack** `Python` `Google Gemini` `Edge TTS` `Naver Clova Speech`
 
 </details>
 
@@ -659,23 +665,23 @@ OpenAI GPT-5-mini API
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD3E0,50:D8C4F5,100:C3EAF7&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF9A2E,50:FFD34D,100:1E6FD9&height=4" width="100%"/>
 
-## 🧁 기술 스택
+## 🎒 장착 스킬 — 기술 스택
 
 <div align="center">
 
 **Language & Backend**
 
-<img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,nestjs,ts,js,c&theme=light" />
+<img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,nestjs,ts,js,c" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite&theme=light" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite" />
 
 **Database & Infra**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,aws,linux,nginx,vercel,git,github&theme=light" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,aws,linux,nginx,vercel,git,github" />
 
 <br/>
 
@@ -691,7 +697,7 @@ OpenAI GPT-5-mini API
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white"/>
 
-**Data & Storage**
+**Data & Ops**
 
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostGIS-008BB9?style=flat-square"/>
@@ -703,24 +709,24 @@ OpenAI GPT-5-mini API
 
 </div>
 
-> 🧠 RAG(pgvector) · 에이전트 오케스트레이션(LangGraph) · XAI 설계 · 온디바이스(WASM) 추론
+> 🧬 RAG(pgvector) · 에이전트 오케스트레이션(LangGraph) · XAI 설계 · 온디바이스(WASM) 추론
 > 🐧 Linux 서버 구축 — RAID 1 구성 · 사용자별 디스크 쿼터(Quota) 설정
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD3E0,50:D8C4F5,100:C3EAF7&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF9A2E,50:FFD34D,100:1E6FD9&height=4" width="100%"/>
 
-## 📊 GitHub
+## 📟 디지바이스 — GitHub
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=clae-dev&hide_border=true&background=00000000&stroke=D8C4F5&ring=A78BFA&fire=F9A8D4&currStreakLabel=A78BFA&currStreakNum=A78BFA&sideNums=888888&sideLabels=888888&dates=AAAAAA" height="180"/>
+<img src="https://streak-stats.demolab.com?user=clae-dev&hide_border=true&background=00000000&stroke=FF9A2E&ring=1E6FD9&fire=FF6B1A&currStreakLabel=FF9A2E&currStreakNum=FF9A2E&sideNums=888888&sideLabels=888888&dates=AAAAAA" height="180"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=clae-dev&bg_color=00000000&color=888888&line=A78BFA&point=F9A8D4&area=true&area_color=D8C4F5&hide_border=true&custom_title=Contribution%20Graph" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=clae-dev&bg_color=00000000&color=888888&line=FF9A2E&point=1E6FD9&area=true&area_color=FFC98A&hide_border=true&custom_title=Contribution%20Graph" width="98%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD3E0,50:D8C4F5,100:C3EAF7&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF9A2E,50:FFD34D,100:1E6FD9&height=4" width="100%"/>
 
-## 📚 교육 & 학습
+## 📚 트레이닝 & 📡 게이트
 
 | | |
 |---|---|
@@ -731,14 +737,12 @@ OpenAI GPT-5-mini API
 
 <div align="center">
 
-### 📬 Contact
-
-<a href="mailto:12michael23@naver.com"><img src="https://img.shields.io/badge/12michael23@naver.com-FFB5C5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.notion.so/2e827c307157805aaff3c159fb23c716?source=copy_link"><img src="https://img.shields.io/badge/Portfolio-D8C4F5?style=for-the-badge&logo=notion&logoColor=white"/></a>
-<a href="https://github.com/clae-dev"><img src="https://img.shields.io/badge/@clae--dev-C3EAF7?style=for-the-badge&logo=github&logoColor=444444"/></a>
+<a href="mailto:12michael23@naver.com"><img src="https://img.shields.io/badge/12michael23@naver.com-FF9A2E?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.notion.so/2e827c307157805aaff3c159fb23c716?source=copy_link"><img src="https://img.shields.io/badge/Portfolio-1E6FD9?style=for-the-badge&logo=notion&logoColor=white"/></a>
+<a href="https://github.com/clae-dev"><img src="https://img.shields.io/badge/@clae--dev-0A1F44?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C3EAF7,50:D8C4F5,100:FFD3E0&height=140&section=footer&text=Thanks%20for%20scrolling%21&fontSize=26&fontColor=6D5B9B&fontAlignY=72&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9A2E,50:1E6FD9,100:0A1F44&height=140&section=footer&text=Thanks%20for%20scrolling%21&fontSize=26&fontColor=FFFFFF&fontAlignY=72&animation=twinkling" width="100%"/>
 
 <!-- updated: 2026-08-04 -->
