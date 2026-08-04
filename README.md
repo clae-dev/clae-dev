@@ -1,13 +1,13 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-    <img src="assets/hero.svg" alt="조창래 · 백엔드 개발자" width="100%">
+    <img src="assets/hero.svg" alt="조창래 · AI 풀스택 개발자" width="100%">
   </picture>
   <img src="assets/partners.svg" alt="파트너 캐릭터" width="62%">
 </div>
 
 ## 👋 안녕하세요!
-🧩 문제 해결을 즐기는 백엔드 개발자 조창래입니다.
+🧩 문제 해결을 즐기는 AI 풀스택 개발자 조창래입니다.
 
 사용자에게 실질적인 가치를 주는 서비스를 만들기 위해
 Java · Spring 기반으로 구조와 기본기를 중요하게 생각하며 개발하고 있습니다.
