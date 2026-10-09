@@ -3,6 +3,10 @@
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
     <img src="assets/hero.svg" alt="조창래 · AI 풀스택 개발자" width="100%">
   </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ticker-dark.svg">
+    <img src="assets/ticker.svg" alt="LangGraph agents · RAG · XAI · on-device WASM · real-time vision · rPPG signal · PostGIS geofencing · path planning" width="100%">
+  </picture>
 </div>
 
 ## 안녕하세요!
@@ -615,9 +619,9 @@ Next.js 16 · React · TailwindCSS · Supabase · Claude(Anthropic) · TanStack 
 
 ---
 
-## 성빈센트청소년회 | 실운영 단체 웹사이트
+## 성 빈첸시오 청년회 커뮤니티 | 실운영 단체 웹사이트
 
-성빈센트청소년회의 단체 소개 · 활동 소식 · 회원 전용 커뮤니티를 제공하는 웹사이트
+성 빈첸시오 아 바오로회 청년회의 단체 소개 · 활동 소식 · 회원 전용 커뮤니티를 제공하는 웹사이트
 
 ### 프로젝트 개요
 
