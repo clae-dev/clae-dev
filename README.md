@@ -19,6 +19,15 @@ React · Next.js 로 화면까지 붙여 **기획부터 배포까지 혼자서�
 최근에는 **경로 탐색·비용 최적화**, **실시간 영상/신호 기반 추론**, **위치·공간 데이터 처리** 등
 AI가 실제 환경에서 판단 근거를 설명하며 동작하는 문제에 집중하고 있습니다.
 
+<div align="center">
+
+[![Email](https://img.shields.io/badge/email-21262d?style=for-the-badge&logo=gmail&logoColor=4fd6be)](mailto:12michael23@naver.com)
+[![Notion](https://img.shields.io/badge/notion-21262d?style=for-the-badge&logo=notion&logoColor=4fd6be)](https://www.notion.so/2e827c307157805aaff3c159fb23c716?source=copy_link)
+[![GitHub](https://img.shields.io/badge/github-21262d?style=for-the-badge&logo=github&logoColor=4fd6be)](https://github.com/clae-dev)
+[![LinkedIn](https://img.shields.io/badge/linkedin-21262d?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzRmZDZiZSIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B)](https://www.linkedin.com/in/clae-dev)
+
+</div>
+
 ---
 
 <picture>
@@ -32,6 +41,9 @@ AI가 실제 환경에서 판단 근거를 설명하며 동작하는 문제에 �
     <img src="assets/awards.svg" alt="K-해양 AI 챌린지 우수상 · K-Hackathon for Global 우수상 · Tishoo 공모전 우수상" width="100%">
   </picture>
 </div>
+
+<details>
+<summary><b>수상 상세 보기</b></summary>
 
 ### K-해양 AI 챌린지 부산 2025 | 한국마이크로소프트 대표상 (우수상)
 
@@ -50,7 +62,6 @@ AI가 실제 환경에서 판단 근거를 설명하며 동작하는 문제에 �
 - ERP 기반 정보시스템 구축 과제 - 교육 직후 **24시간 내 기획 → 설계 → 구현 전 과정 완수**
 - 실시간 업무 지시·수행 현황 공유를 목표로 매장 단위 WebSocket 채널 설계
 
-
 ### 2026 티슈(Tishoo) 해커톤형 팀업 공모전 | 우수상 (2등)
 
 > 주최: Tishoo · 기간: 2026.02 ~ 2026.04 · 팀: BENEPICKER
@@ -61,6 +72,7 @@ AI가 실제 환경에서 판단 근거를 설명하며 동작하는 문제에 �
 - 56명 대상 현장 인터뷰를 통한 시장 수요 검증
   (사용 의사 90% / 가맹점 제휴 의사 80% 확인)
 
+</details>
 
 ---
 
@@ -126,6 +138,9 @@ AI가 실제 환경에서 판단 근거를 설명하며 동작하는 문제에 �
 
 웹캠에 비친 손동작을 금융 화면이 바로 쓸 수 있는 **action 이벤트**로 바꾸는 AI 인식 모듈
 
+<details>
+<summary><b>자세히 보기</b></summary>
+
 ### 프로젝트 개요
 
 - 사용자가 **직접 정한 손동작**에 원하는 금융 업무를 연결 → 포즈 유지만으로 해당 화면 호출
@@ -164,6 +179,8 @@ AI 모듈 (본 저장소)                 Backend               Frontend
 
 Python 3.10~3.12 · MediaPipe Tasks Vision · OpenCV · NumPy · unittest
 
+</details>
+
 ---
 
 ## 워플 (WorkPle) | 현장 업무 관리 정보시스템
@@ -172,6 +189,9 @@ Python 3.10~3.12 · MediaPipe Tasks Vision · OpenCV · NumPy · unittest
 > _교육 직후 24시간 안에 기획 → 설계 → 구현까지_
 
 현장 관리직과 근로자가 **업무 지시 · 수행 · 확인**을 같은 화면에서 주고받는 웹/앱 정보시스템
+
+<details>
+<summary><b>자세히 보기</b></summary>
 
 ### 프로젝트 개요
 
@@ -196,6 +216,8 @@ React 19 · TypeScript · Vite · TanStack Query · React Router v7 · Framer Mo
 GitHub
 https://github.com/clae-dev/weple
 
+</details>
+
 ---
 
 ## Javis (자비스) | 개인용 AI 비서
@@ -203,6 +225,9 @@ https://github.com/clae-dev/weple
 > _매일 쓰려고 만든 물건이라, 화려한 기능보다 안 끊기고 · 빠르고 · 믿을 수 있는 것을 먼저 챙겼다_
 
 FastAPI · LangGraph 기반의 풀스택 개인 AI 비서 서비스
+
+<details>
+<summary><b>자세히 보기</b></summary>
 
 ### 프로젝트 개요
 
@@ -243,6 +268,8 @@ FastAPI · LangGraph · PostgreSQL + pgvector · OpenAI(gpt-4o / Whisper / TTS) 
 GitHub
 https://github.com/clae-dev/javis
 
+</details>
+
 ---
 
 ## MindController | 웹 기반 표정·심박 감정 분석 서비스
@@ -251,6 +278,9 @@ https://github.com/clae-dev/javis
 
 청소년 행사·부스 체험용으로 제작한 브라우저 기반 표정/심박 분석 서비스
 (운영: 성빈센트청소년회 · 한국사회공헌협회 청년챔프단 Butterfly)
+
+<details>
+<summary><b>자세히 보기</b></summary>
 
 ### 프로젝트 개요
 
@@ -292,6 +322,8 @@ Live https://mindcontroller-theta.vercel.app
 GitHub
 https://github.com/clae-dev/MindController
 
+</details>
+
 ---
 
 ## 혼디 (HONDI) | 제주 혼행 커뮤니티 플랫폼
@@ -299,6 +331,9 @@ https://github.com/clae-dev/MindController
 > _혼자서도 즐거운 제주 여행_ · 파이널 프로젝트 (2026.01 ~ 2026.02) · **풀스택 1인 개발**
 
 혼자 여행하는 사람들을 위해 **동행 매칭 · 숙소 정보 · 여행 후기**를 한곳에 모은 제주 특화 커뮤니티
+
+<details>
+<summary><b>자세히 보기</b></summary>
 
 ### 프로젝트 개요
 
@@ -326,6 +361,8 @@ React 18 · Vite · TypeScript · TanStack Query · Tailwind CSS · AWS EC2 · N
 
 Live https://hondi.site
 
+</details>
+
 ---
 
 ## BenePicker | 위치 기반 혜택 큐레이션 서비스
@@ -333,6 +370,9 @@ Live https://hondi.site
 > _내 주변의 진짜 혜택, 지도 한 번에_ &nbsp;|&nbsp; 2026 Tishoo 해커톤형 팀업 공모전 **우수상(2등)**
 
 통신사 · 카드 · 멤버십 혜택을 내 위치 기반으로 모아 보여주는 풀스택 모바일·웹 서비스
+
+<details>
+<summary><b>자세히 보기</b></summary>
 
 ### 프로젝트 개요
 
@@ -364,12 +404,17 @@ Spring Boot 3.5.8 · Expo SDK 55 · React Native Web · PostgreSQL(Supabase) · 
 
 Live https://bene-picker.vercel.app
 
+</details>
+
 ---
 
 ## SIMVEX | 3D 공학 학습 플랫폼 (해커톤 MVP)
 
 공대생 및 기계·로봇공학 입문자를 위한
 웹 기반 3D 기계 부품 시각화 학습 서비스
+
+<details>
+<summary><b>자세히 보기</b></summary>
 
 ### 프로젝트 개요
 
@@ -424,6 +469,8 @@ Supabase (PostgreSQL, Auth, Storage) · OpenAI API · Tailwind CSS · Vercel
 GitHub
 https://github.com/Blaybus-TED-Chang/simvex-web
 
+</details>
+
 ---
 
 ## 성분핏 (IngredientFit) | 전성분 기반 화장품 큐레이션
@@ -431,6 +478,9 @@ https://github.com/Blaybus-TED-Chang/simvex-web
 > _광고 말고, 성분으로 고르세요_ · 팀 프로젝트 (PM · AI/Backend · Frontend 3인)
 
 전성분 **배치 순서**와 가격을 분석해 가성비 좋은 세럼을 추천하는 AI 큐레이션 서비스
+
+<details>
+<summary><b>자세히 보기</b></summary>
 
 ### 프로젝트 개요
 
@@ -464,6 +514,8 @@ Next.js 16 · React 19 · Tailwind CSS 4 · Google Gemini · Supabase(PostgreSQL
 GitHub
 https://github.com/HYCU-beauty-project/seongbunfit
 
+</details>
+
 ---
 
 ## SeoulMate | 영상 분석 기반 서울 여행 코스 어시스턴트
@@ -471,6 +523,9 @@ https://github.com/HYCU-beauty-project/seongbunfit
 > 서울시 빅데이터 공모전 출품작
 
 외국인 관광객을 위한 AI 서울 여행 플랫폼 - 영상 속 장소를 인식하고 실시간 혼잡도를 반영해 동선을 생성
+
+<details>
+<summary><b>자세히 보기</b></summary>
 
 ### 프로젝트 개요
 
@@ -494,6 +549,8 @@ NestJS · TypeScript · Next.js 16 · Tailwind CSS · Supabase · Claude API · 
 GitHub
 https://github.com/PrincessDiary/SeoulMate
 
+</details>
+
 ---
 
 ## RE:LAY | 예약형 리필 구독 프로토타입
@@ -502,6 +559,9 @@ https://github.com/PrincessDiary/SeoulMate
 
 브랜드가 주기를 정하는 **Push형 정기배송** 대신, 소비자가 소진 시점을 직접 호출하는
 **예약형 구독(Pull)** 과 **합배송**으로 배송비·포장재·탄소를 줄이는 컨셉 검증 프로토타입
+
+<details>
+<summary><b>자세히 보기</b></summary>
 
 ### 프로젝트 개요
 
@@ -525,11 +585,16 @@ Live https://relay-plum-eta.vercel.app
 GitHub
 https://github.com/clae-dev/relay
 
+</details>
+
 ---
 
 ## ESTAID | AI 기반 2차 창작 컨텐츠 생성 플랫폼
 
 K-pop · 애니 · 게임 · 버튜버 등 2차 창작 컨텐츠를 누구나 쉽게 만들 수 있도록 돕는 AI 플랫폼
+
+<details>
+<summary><b>자세히 보기</b></summary>
 
 ### 프로젝트 개요
 
@@ -551,6 +616,8 @@ K-pop · 애니 · 게임 · 버튜버 등 2차 창작 컨텐츠를 누구나 �
 
 Next.js 14 · TypeScript · Tailwind CSS · Spring Boot 3.2 · Java 17 · JPA · Claude API · MySQL
 
+</details>
+
 ---
 
 ## PedalRo (페달로) | AI 자전거 관광 코스 큐레이션
@@ -559,6 +626,9 @@ Next.js 14 · TypeScript · Tailwind CSS · Spring Boot 3.2 · Java 17 · JPA ·
 
 전국 공영자전거 실시간 대여 데이터와 한국관광공사 관광 API를 융합하여
 사용자 취향 기반 테마별 자전거 관광 코스를 XAI 방식으로 추천
+
+<details>
+<summary><b>자세히 보기</b></summary>
 
 ### 프로젝트 개요
 
@@ -584,6 +654,8 @@ FastAPI · Python · LangChain · Claude · PostgreSQL + PostGIS · SQLAlchemy �
 GitHub
 https://github.com/clae-dev/PedalRo
 
+</details>
+
 ---
 
 ## Signal | 마케팅 실무자용 키워드 추적 플랫폼
@@ -591,6 +663,9 @@ https://github.com/clae-dev/PedalRo
 > 2026 Blaybus 인사이트톤 출품작
 
 마케팅·전략기획 실무자를 위한 **키워드 변화 추적 & AI 분석 대시보드**
+
+<details>
+<summary><b>자세히 보기</b></summary>
 
 ### 프로젝트 개요
 
@@ -612,11 +687,16 @@ https://github.com/clae-dev/PedalRo
 
 Next.js 16 · React · TailwindCSS · Supabase · Claude(Anthropic) · TanStack Query · Recharts
 
+</details>
+
 ---
 
 ## 성 빈첸시오 청년회 커뮤니티 | 실운영 단체 웹사이트
 
 성 빈첸시오 아 바오로회 청년회의 단체 소개 · 활동 소식 · 회원 전용 커뮤니티를 제공하는 웹사이트
+
+<details>
+<summary><b>자세히 보기</b></summary>
 
 ### 프로젝트 개요
 
@@ -636,6 +716,8 @@ Next.js 16 · React · TailwindCSS · Supabase · Claude(Anthropic) · TanStack 
 
 Next.js 15 · React 19 · TypeScript · Tailwind CSS v4 · shadcn/base-ui · Azure SQL · Azure Blob Storage · Microsoft Graph
 
+</details>
+
 ---
 
 <picture>
@@ -643,7 +725,8 @@ Next.js 15 · React 19 · TypeScript · Tailwind CSS v4 · shadcn/base-ui · Azu
   <img src="assets/sec-etc.svg" alt="그 외 프로젝트" width="100%">
 </picture>
 
-### 카카오뱅크 시니어 AI 금융 도우미
+<details>
+<summary><b>카카오뱅크 시니어 AI 금융 도우미</b></summary>
 
 시니어 고객을 위한 **음성 온보딩 + AI 금융 브리핑** 프로토타입
 
@@ -654,7 +737,10 @@ Next.js 15 · React 19 · TypeScript · Tailwind CSS v4 · shadcn/base-ui · Azu
 
 `stack` Python · Google Gemini · Edge TTS · Naver Clova Speech
 
-### K-MAC 해커톤 프로젝트
+</details>
+
+<details>
+<summary><b>K-MAC 해커톤 프로젝트</b></summary>
 
 실사용 시나리오 기반 MVP 개발 해커톤
 
@@ -665,7 +751,10 @@ Next.js 15 · React 19 · TypeScript · Tailwind CSS v4 · shadcn/base-ui · Azu
 GitHub [frontend](https://github.com/KMAC-hackerton/frontend) · [backend](https://github.com/KMAC-hackerton/backend)
 기획 문서 [KMAC PPT.pdf](https://github.com/user-attachments/files/25028764/KMAC.PPT.pdf)
 
-### 세미 프로젝트 | 봉사 커뮤니티 웹 서비스
+</details>
+
+<details>
+<summary><b>세미 프로젝트 | 봉사 커뮤니티 웹 서비스</b></summary>
 
 게시판 중심 봉사 커뮤니티 웹 서비스
 
@@ -678,6 +767,8 @@ GitHub [frontend](https://github.com/KMAC-hackerton/frontend) · [backend](https
 > 기본기에 집중하여 게시판 중심 웹 서비스의 전체 흐름을 완성한 프로젝트
 
 GitHub https://github.com/Trouble-Developer/semi_project
+
+</details>
 
 ---
 
@@ -733,4 +824,4 @@ GitHub https://github.com/Trouble-Developer/semi_project
   </picture>
 </div>
 
-<!-- updated: 2026-10-09 -->
+<!-- updated: 2026-10-20 -->
